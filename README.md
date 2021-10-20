@@ -5,7 +5,7 @@
 <br/>
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fspearkkk&count_bg=%23555555&title_bg=%23555555&icon=apple.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![github.com/spearkkk](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fspearkkk&count_bg=%23282828&title_bg=%23282828&icon=github.svg&icon_color=%23FBF1C7&title=github.com%2Fspearkkk&edge_flat=true)](https://hits.seeyoufarm.com)
   
   <br/>
   
