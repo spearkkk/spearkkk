@@ -27,7 +27,7 @@ I like to solve simple problems, but I also like to understand business or syste
 ### Side Projects
 
 #### Run & Gun (In-progress)
-This service is to find people who loves basketball.
+This service is to find people who loves basketball.  
 Find new player or join basketball game.
 
 [LINK NOT YET](https://google.com)
