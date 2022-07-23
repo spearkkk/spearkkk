@@ -11,54 +11,31 @@
 
 </div>
 
-I am a **software engineer** who like to solve problem.  
-I like to solve simple problems, but I also like to understand business or system situations and solve problems based on them.  
+<div>
+  <img align="right" width="200" src="https://github-readme-stats.vercel.app/api?username=spearkkk&count_private=true&show_icons=true&theme=gruvbox&custom_title=---&hide_rank=true&line_height=35&show_owner=false"/>
 
-```topojson
-{
-  "type": "Topology",
-  "transform": {
-    "scale": [0.0005000500050005, 0.00010001000100010001],
-    "translate": [100, 0]
-  },
-  "objects": {
-    "example": {
-      "type": "GeometryCollection",
-      "geometries": [
-        {
-          "type": "Point",
-          "properties": {"prop0": "value0"},
-          "coordinates": [4000, 5000]
-        },
-        {
-          "type": "LineString",
-          "properties": {"prop0": "value0", "prop1": 0},
-          "arcs": [0]
-        },
-        {
-          "type": "Polygon",
-          "properties": {"prop0": "value0",
-            "prop1": {"this": "that"}
-          },
-          "arcs": [[1]]
-        }
-      ]
-    }
-  },
-  "arcs": [[[4000, 0], [1999, 9999], [2000, -9999], [2000, 9999]],[[0, 0], [0, 9999], [2000, 0], [0, -9999], [-2000, 0]]]
-}
-```
+  I am a **software engineer** who like to solve problem.  
+  I like to solve simple problems, but I also like to understand business or system situations and solve problems based on them.  
+
+### [About Me?](https://about.spearkkk.dev/en/)  
+
+</div>
+
+<a href=""></a>
+---  
+
+<div>
+
+<img align="right" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spearkkk&show_icons=true&theme=gruvbox&custom_title=---&count_private=true&line_height=35&&langs_count=10&layout=compact"/>
+
+### My Sktils
+
+![spring-boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+
+</div>
+
+<div>
   
-[Read more...](https://about.spearkkk.dev/en/)  
-
----
-
-### My Stats
-|![stats](https://github-readme-stats.vercel.app/api?username=spearkkk&count_private=true&show_icons=true&theme=gruvbox&custom_title=---&hide_rank=true&line_height=35&show_owner=false)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spearkkk&show_icons=true&theme=gruvbox&custom_title=---&count_private=true&line_height=35&&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-|-----|---------|
-
----
-
 ### Side Projects
 
 #### Run & Gun (In-progress)
@@ -73,6 +50,10 @@ This web page is for my wedding.
 - Marriage Story: [See Now](https://wedding.spearkkk.dev/)
 - Thank U Card: [See Now](https://after-wedding.spearkkk.dev/)
 
----
+</div>
 
-[Resume](https://about.spearkkk.dev/static/resume-de73a8bcd14619c66add3b216adc0d86.pdf)
+<div align=center>
+
+## [Resume](https://about.spearkkk.dev/static/resume-de73a8bcd14619c66add3b216adc0d86.pdf)
+
+</div>
