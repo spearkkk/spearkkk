@@ -1,4 +1,11 @@
-안녕
+
+
+---
+
+I am a **software engineer** who like to solve problem.  
+I like to solve simple problems,   
+but I also like to understand business or system situations   
+and solve problems based on them.  
 
 <div align=right> 
   
