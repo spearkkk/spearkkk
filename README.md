@@ -18,21 +18,22 @@
 
   <br/>
   <br/>
-  <br/>
 
   <div align=left>
   
   ### [About Me?](https://about.spearkkk.dev/en/)  
 
   </div>
+  <br/>
+  
+---  
+
 </div>
 
----  
+### My Skils
 
 <div>
   <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spearkkk&show_icons=true&theme=gruvbox&custom_title=---&count_private=true&line_height=35&&langs_count=10&layout=compact"/>
-  
-### My Skils
 
 ![spring-boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -53,10 +54,9 @@
 
 </div>
 
+### Side Projects
 
 <div>
-    
-  ### Side Projects
 
   #### Run & Gun (In-progress)
   This service is to find people who loves basketball.  
