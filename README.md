@@ -10,11 +10,12 @@
 <div>
   <img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=spearkkk&count_private=true&show_icons=true&theme=gruvbox&custom_title=---&hide_rank=true&line_height=35&show_owner=false"/>
   
+  <br/>
+  <br/>  
+  
   I am a **software engineer** who like to solve problem.<br/>  
   I like to solve simple problems, but I also like to understand business or system situations and solve problems based on them.  
 
-  <br/>
-  <br/>
   <br/>
   <br/>
   <br/>
@@ -73,6 +74,6 @@
 
 <div align=center>
 
-## [Resume](https://about.spearkkk.dev/static/resume-de73a8bcd14619c66add3b216adc0d86.pdf)
+#### [resume](https://about.spearkkk.dev/static/resume-de73a8bcd14619c66add3b216adc0d86.pdf)
 
 </div>
