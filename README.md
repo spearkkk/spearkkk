@@ -14,6 +14,8 @@
   <br/>  
   <br/>
   <br/>
+  <br/>
+  <br/>
   
   I am a **software engineer** who like to solve problem.<br/>  
   I like to solve simple problems, but I also like to understand business or system situations and solve problems based on them.  
@@ -23,7 +25,7 @@
   ##### [About Me?](https://about.spearkkk.dev/en/)  
 
   </div>
-  <br/>
+  
 </div>
 
 ### My Skils
