@@ -56,6 +56,9 @@
 ### Side Projects
 
 <div>
+  
+  <img align="right" alt="leetcode-stats" width="300" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=spearkkk&theme=dark"/>
+  
 
   #### Run & Gun (In-progress)
   This service is to find people who loves basketball.  
