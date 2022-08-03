@@ -57,8 +57,7 @@
 
 <div>
   
-  <img align="right" alt="leetcode-stats" width="300" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=spearkkk&theme=dark"/>
-  
+  <!-- <img align="right" width="300" alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=spearkkk" />   -->
 
   #### Run & Gun (In-progress)
   This service is to find people who loves basketball.  
@@ -76,6 +75,6 @@
 
 <div align=center>
 
-#### [resume](https://about.spearkkk.dev/static/resume-de73a8bcd14619c66add3b216adc0d86.pdf)
+#### [resume](https://github.com/spearkkk/about-me/blob/7e1b9159af9aa7ac75d6e3e095b3c0f52929a6e3/static/resume.pdf)
 
 </div>
