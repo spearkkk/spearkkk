@@ -28,7 +28,9 @@
   
 </div>
 
-### My Skils
+---
+
+# My Skils
 
 <div>
   <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spearkkk&show_icons=true&theme=gruvbox&custom_title=---&count_private=true&line_height=35&&langs_count=10&layout=compact"/>
@@ -53,19 +55,17 @@
 
 </div>
 
-### Side Projects
+# Side Projects
 
 <div>
   
   <!-- <img align="right" width="300" alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=spearkkk" />   -->
 
-  #### Run & Gun (In-progress)
+  ## Run & Gun (In-progress)
   This service is to find people who loves basketball.  
-  Find new player or join basketball game.
+  Find new player or join basketball game.  
 
-  [LINK NOT YET](https://google.com)
-
-  #### Wedding
+  ## Wedding
   This web page is for my wedding.
 
   - Marriage Story: [See Now](https://wedding.spearkkk.dev/)
@@ -75,6 +75,6 @@
 
 <div align=center>
 
-#### [resume](https://github.com/spearkkk/about-me/blob/7e1b9159af9aa7ac75d6e3e095b3c0f52929a6e3/static/resume.pdf)
+### [resume](https://github.com/spearkkk/about-me/blob/7e1b9159af9aa7ac75d6e3e095b3c0f52929a6e3/static/resume.pdf)
 
 </div>
