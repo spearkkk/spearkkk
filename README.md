@@ -1,40 +1,47 @@
 ![banner](./banner.png)
 
-<div align=right> 
-    
-  [![github.com/spearkkk](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fspearkkk&count_bg=%23282828&title_bg=%23282828&icon=github.svg&icon_color=%23FBF1C7&title=github.com%2Fspearkkk&edge_flat=true)](https://hits.seeyoufarm.com) 
-  [![spearkkk.dev](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fspearkkk.dev&count_bg=%23282828&title_bg=%23282828&icon=github.svg&icon_color=%23FBF1C7&title=spearkkk.dev&edge_flat=true)](https://hits.seeyoufarm.com)  
-
-</div>
-
-<div>
-  <img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=spearkkk&count_private=true&show_icons=true&theme=gruvbox&custom_title=---&hide_rank=true&line_height=35&show_owner=false"/>
-  
+<div align=right>
   <br/>
   <br/>  
   <br/>
+  
+  **I am a software engineer who like to solve problem.**<br/>
+  
+  Currently I work for E-commerce company in Seoul of Republic of Korea.<br/>
+  I like to solve simple problems,<br/>
+  but I also like to understand business or system situations and solve problems based on them.<br/>
+  When I solve a problem, I simplify the problem and start with small steps.<br/>
+  <br/>
+  I am interested in event streaming data processing and build a scalable system.<br/>
+  <br/>
+  
+  <a href="https://about.spearkkk.dev/en/" target="_blank">
+    <img src="https://img.shields.io/badge/website-3a5c61.svg?&style=for-the-badge&logo=About.me&logoColor=ffffff&labelColor=3a5c61&logoWidth=20"/>
+  </a>
+  <a href="https://www.linkedin.com/in/changkwon-jeong-754376135/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-3a5c61.svg?&style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=3a5c61&logoWidth=20"/>
+  </a>
+  <a href="https://github.com/spearkkk/about-me/blob/7e1b9159af9aa7ac75d6e3e095b3c0f52929a6e3/static/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/resume-3a5c61.svg?&style=for-the-badge&logo=ReadtheDocs&logoColor=ffffff&labelColor=3a5c61&logoWidth=20"/>
+  </a>
+  
   <br/>
   <br/>
   <br/>
-  
-  I am a **software engineer** who like to solve problem.<br/>  
-  I like to solve simple problems, but I also like to understand business or system situations and solve problems based on them.  
-
-  <div align=left>
-  
-  ##### [About Me?](https://about.spearkkk.dev/en/)  
-
-  </div>
-  
 </div>
 
 ---
 
-## My Skils
 
-<div>
-  <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spearkkk&show_icons=true&theme=gruvbox&custom_title=---&count_private=true&line_height=35&&langs_count=10&layout=compact"/>
 
+<div align=center>
+  <br/>
+  <br/>
+  
+  ## My Skils
+
+  <br/>
+  
 ![spring-boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![apache-kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
@@ -55,11 +62,17 @@
 
 </div>
 
-## Side Projects
-
-<div>
+<div align=center>
+  <br/>
+  <br/>
   
-  <!-- <img align="right" width="300" alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=spearkkk" />   -->
+  ## Side Projects
+  
+  <br/>
+</div>
+  
+<div>
+  <img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=spearkkk&count_private=true&show_icons=true&theme=gruvbox&custom_title=Github%20Activity&hide_rank=true&line_height=25&show_owner=false"/>
 
   ### Run & Gun (In-progress)
   This service is to find people who loves basketball.  
@@ -71,10 +84,4 @@
   - Marriage Story: [See Now](https://wedding.spearkkk.dev/)
   - Thank U Card: [See Now](https://after-wedding.spearkkk.dev/)
   
-</div>
-
-<div align=center>
-
-### [resume](https://github.com/spearkkk/about-me/blob/7e1b9159af9aa7ac75d6e3e095b3c0f52929a6e3/static/resume.pdf)
-
-</div>
+</div>  
