@@ -8,11 +8,12 @@
   **I am a software engineer who like to solve problem.**<br/>
   
   Currently I work for E-commerce company in Seoul of Republic of Korea.<br/>
+  <br/>
   I like to solve simple problems,<br/>
   but I also like to understand business or system situations and solve problems based on them.<br/>
   When I solve a problem, I simplify the problem and start with small steps.<br/>
   <br/>
-  I am interested in event streaming data processing and build a scalable system.<br/>
+  I am interested in event streaming processing and scalable system.<br/>
   <br/>
   
   <a href="https://about.spearkkk.dev/en/" target="_blank">
