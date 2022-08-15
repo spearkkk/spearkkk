@@ -17,13 +17,13 @@
   <br/>
   
   <a href="https://about.spearkkk.dev/en/" target="_blank">
-    <img src="https://img.shields.io/badge/website-3a5c61.svg?&style=for-the-badge&logo=About.me&logoColor=ffffff&labelColor=3a5c61&logoWidth=20"/>
+    <img src="https://img.shields.io/badge/website-155C61.svg?&style=for-the-badge&logo=About.me&logoColor=ffffff&labelColor=155C61&logoWidth=20"/>
   </a>
   <a href="https://www.linkedin.com/in/changkwon-jeong-754376135/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-3a5c61.svg?&style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=3a5c61&logoWidth=20"/>
+    <img src="https://img.shields.io/badge/LinkedIn-3A5C61.svg?&style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=3A5C61&logoWidth=20"/>
   </a>
   <a href="https://github.com/spearkkk/about-me/blob/7e1b9159af9aa7ac75d6e3e095b3c0f52929a6e3/static/resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/resume-3a5c61.svg?&style=for-the-badge&logo=ReadtheDocs&logoColor=ffffff&labelColor=3a5c61&logoWidth=20"/>
+    <img src="https://img.shields.io/badge/resume-3A5C61.svg?&style=for-the-badge&logo=ReadtheDocs&logoColor=ffffff&labelColor=3A5C61&logoWidth=20"/>
   </a>
   
   <br/>
