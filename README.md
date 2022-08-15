@@ -81,3 +81,17 @@
   - Thank U Card: [See Now](https://after-wedding.spearkkk.dev/)
   
 </div>  
+
+<div align=center>
+  <br/>
+  <br/>
+  
+  ## What I Do
+  
+  <br/>
+</div>
+  
+<div>
+  <img align="center" width="2048" src="https://leetcard.jacoblin.cool/spearkkk?theme=wtf&font=Nanum%20Gothic%20Coding&ext=activity"/>
+  
+</div>  
