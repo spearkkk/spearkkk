@@ -94,4 +94,6 @@
 <div align=center>
   <img width=1000 src="https://leetcard.jacoblin.cool/spearkkk?theme=nord&font=Nanum%20Gothic%20Coding&ext=activity"/>
   
+  <img width=1000 src="https://spotify-readme-spearkkk.vercel.app/api?scan=true&rainbow=true&theme=dark"/>
+  
 </div>  
