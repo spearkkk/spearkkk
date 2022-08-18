@@ -96,7 +96,6 @@
   
   <img width=1000 src="https://spotify-readme-spearkkk.vercel.app/api?scan=true&rainbow=true&theme=dark"/>
   
-  <!--START_SECTION:feed-->
-  ...
-  <!--END_SECTION:feed-->
+  <!-- BLOGPOSTS:START -->
+  <!-- BLOGPOSTS:END -->
 </div>  
