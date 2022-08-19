@@ -30,12 +30,8 @@
   <br/>
   👨🏼‍💻 I'm working CPNG in Republic of Korea.
   <br/>
-  🍿 I like to watch series & movies.
-  <br/>
+  🍿 I like to watch series & movies. [Korea Movies](http://www.imdb.com/list/ls561052842/), [Korea Series](http://www.imdb.com/list/ls561052813/)
   
-  [Korea Movies](http://www.imdb.com/list/ls561052842/)
-  <br/>
-  [Korea Series](http://www.imdb.com/list/ls561052813/)
   <br/>
 </div>
 
