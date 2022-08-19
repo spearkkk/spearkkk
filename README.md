@@ -28,16 +28,21 @@
   
   <br/>
   <br/>
+  👨🏼‍💻 I'm working CPNG in Republic of Korea.
+  <br/>
+  🍿 I like to watch series & movies.
   <br/>
 </div>
 
-<div align=center>
-  <br/>
+<div align=right>
   <br/>
   
-  ## My Skils
+  <h4>Skils</h4>
 
   <br/>
+  
+  <img align=left width=450 height=200 src="./nothing.png"/>
+
   
 ![spring-boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -101,9 +106,11 @@
   
   <img align=right width=500 src="https://spotify-readme-spearkkk.vercel.app/api?scan=true&rainbow=true&theme=dark"/>
   
-  <br> 
+  <img align=right width=500 height=10 src="./nothing.png"/>
   
   <img align=right width=500 src="https://leetcard.jacoblin.cool/spearkkk?theme=nord&font=Nanum%20Gothic%20Coding&ext=activity"/>
+  
+  <img align=right width=500 height=10 src="./nothing.png"/>
   
   <!-- BLOGPOSTS:START -->
 - ['process completed' in Mac OS X](https://spearkkk.dev/entry/process-completed-in-Mac-OS-X)
