@@ -19,7 +19,7 @@ jobs:
             git config --global user.name 'spearkkk'
             git config --global user.email 'spearkkp@gmail.com'
             git add .
-            git diff --quiet --cached || git commit -m "Update README"    
+            git diff --quiet --cached || git commit -m "Update README.md"    
       - name: Push
         uses: ad-m/github-push-action@master
         with:
