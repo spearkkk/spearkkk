@@ -1,7 +1,7 @@
 name: Update RSS
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '10 0 * * *'
 
 jobs:
   update_rss:
