@@ -97,5 +97,15 @@
   <img width=1000 src="https://spotify-readme-spearkkk.vercel.app/api?scan=true&rainbow=true&theme=dark"/>
   
   <!-- BLOGPOSTS:START -->
-  <!-- BLOGPOSTS:END -->
+- ['process completed' in Mac OS X](https://spearkkk.dev/entry/process-completed-in-Mac-OS-X)
+- [블랙박스 DIY: 70mai a800s](https://spearkkk.dev/entry/%EB%B8%94%EB%9E%99%EB%B0%95%EC%8A%A4-DIY-70mai-a800s)
+- [WebpackError: ReferenceError: Audio is not defined](https://spearkkk.dev/entry/WebpackError-ReferenceError-Audio-is-not-defined)
+- [한글 지원 콘솔 게임 폰트: 둥근모꼴](https://spearkkk.dev/entry/%ED%95%9C%EA%B8%80-%EC%A7%80%EC%9B%90-%EC%BD%98%EC%86%94-%EA%B2%8C%EC%9E%84-%ED%8F%B0%ED%8A%B8-%EB%91%A5%EA%B7%BC%EB%AA%A8%EA%BC%B4)
+- [Tailwindcss + Custom Font](https://spearkkk.dev/entry/Tailwindcss-Custom-Font)
+- [WebpackError: ReferenceError: window is not defined](https://spearkkk.dev/entry/WebpackError-ReferenceError-window-is-not-defined)
+- [Intellij에서 Jira와 연결이 되지 않을 때(captcha)](https://spearkkk.dev/entry/Intellij%EC%97%90%EC%84%9C-Jira%EC%99%80-%EC%97%B0%EA%B2%B0%EC%9D%B4-%EB%90%98%EC%A7%80-%EC%95%8A%EC%9D%84-%EB%95%8Ccaptcha)
+- [[Error] javax.net.ssl.SSLException](https://spearkkk.dev/entry/Error-javaxnetsslSSLException)
+- [OSX(맥)에서 공인인증서 찾기](https://spearkkk.dev/entry/OSX%EB%A7%A5%EC%97%90%EC%84%9C-%EA%B3%B5%EC%9D%B8%EC%9D%B8%EC%A6%9D%EC%84%9C-%EC%B0%BE%EA%B8%B0)
+- [멘카오리: 서울 강남(신논현역)](https://spearkkk.dev/entry/%EB%A9%98%EC%B9%B4%EC%98%A4%EB%A6%AC-%EC%84%9C%EC%9A%B8-%EA%B0%95%EB%82%A8%EC%8B%A0%EB%85%BC%ED%98%84%EC%97%AD)
+<!-- BLOGPOSTS:END -->
 </div>  
