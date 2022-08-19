@@ -33,8 +33,9 @@
   🍿 I like to watch series & movies.
   <br/>
   
-  - [Korea Movies](http://www.imdb.com/list/ls561052842/)
-  - [Korea Series](http://www.imdb.com/list/ls561052813/)
+  [Korea Movies](http://www.imdb.com/list/ls561052842/)
+  <br/>
+  [Korea Series](http://www.imdb.com/list/ls561052813/)
   <br/>
 </div>
 
