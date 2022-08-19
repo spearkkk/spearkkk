@@ -79,6 +79,8 @@
   <br/>
 
   <div>
+    
+  <img align=right height=200 src="./wedding.jpeg"/>
 
   ### Wedding
   This web page is for my wedding.
@@ -107,12 +109,12 @@
     
   </div>
   
-  <img align=right width=500 src="https://spotify-readme-spearkkk.vercel.app/api?scan=true&rainbow=true&theme=dark"/>
-  <img align=right width=500 height=10 src="./nothing.png"/>
-  <img align=right width=500 src="https://leetcard.jacoblin.cool/spearkkk?theme=nord&font=Nanum%20Gothic%20Coding&ext=activity"/>
-  <img align=right width=500 height=10 src="./nothing.png"/>
-  <img align="right" width="500" src="https://github-readme-stats.vercel.app/api?username=spearkkk&count_private=true&show_icons=true&theme=gruvbox&custom_title=Github%20Activity&hide_rank=true&line_height=25&show_owner=false"/>
-  <img align=right width=500 height=10 src="./nothing.png"/>
+  <img align=right width=450 src="https://spotify-readme-spearkkk.vercel.app/api?scan=true&rainbow=true&theme=dark"/>
+  <img align=right width=450 height=10 src="./nothing.png"/>
+  <img align=right width=450 src="https://leetcard.jacoblin.cool/spearkkk?theme=nord&font=Nanum%20Gothic%20Coding&ext=activity"/>
+  <img align=right width=450 height=10 src="./nothing.png"/>
+  <img align=right width=450 src="https://github-readme-stats.vercel.app/api?username=spearkkk&count_private=true&show_icons=true&theme=gruvbox&custom_title=Github%20Activity&hide_rank=true&line_height=25&show_owner=false"/>
+  <img align=right width=450 height=10 src="./nothing.png"/>
   
   <!-- BLOGPOSTS:START -->
 - ['process completed' in Mac OS X](https://spearkkk.dev/entry/process-completed-in-Mac-OS-X)
