@@ -32,13 +32,15 @@
   <br/>
   🍿 I like to watch series & movies.
   <br/>
+  
   - [Korea Movies](http://www.imdb.com/list/ls561052842/)
   - [Korea Series](http://www.imdb.com/list/ls561052813/)
+  <br/>
 </div>
 
 <div align=right>
   <br/>
-  <h4>Skils</h4>
+  <h3>Skils</h3>
   <br/>
   <img align=left width=450 height=200 src="./nothing.png"/>
   
