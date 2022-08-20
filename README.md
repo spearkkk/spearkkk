@@ -95,8 +95,6 @@
 
 </div>  
 
-<img align=center width=1024 height=1 src="./nothing.png"/>
-
 <div>
   
 <!--START_SECTION:waka-->
