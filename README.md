@@ -81,7 +81,7 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
-- [Test](https://spearkkk.dev/entry/Test)
+- [2017년 회고(1년차)](https://spearkkk.dev/entry/Test)
 - ['process completed' in Mac OS X](https://spearkkk.dev/entry/process-completed-in-Mac-OS-X)
 - [블랙박스 DIY: 70mai a800s](https://spearkkk.dev/entry/%EB%B8%94%EB%9E%99%EB%B0%95%EC%8A%A4-DIY-70mai-a800s)
 - [WebpackError: ReferenceError: Audio is not defined](https://spearkkk.dev/entry/WebpackError-ReferenceError-Audio-is-not-defined)
