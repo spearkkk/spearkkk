@@ -93,36 +93,14 @@
 - [OSX(맥)에서 공인인증서 찾기](https://spearkkk.dev/entry/OSX%EB%A7%A5%EC%97%90%EC%84%9C-%EA%B3%B5%EC%9D%B8%EC%9D%B8%EC%A6%9D%EC%84%9C-%EC%B0%BE%EA%B8%B0)
 <!-- BLOGPOSTS:END -->
 
-<!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 🏆 774 Contributions in the Year 2022
- > 
-> 📦 1.2 MB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 26 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Seoul
-
-```
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/spearkkk/spearkkk/main/charts/bar_graph.png) 
-
-
-<!--END_SECTION:waka-->
-
 </div>  
 
 <img align=center width=1024 height=1 src="./nothing.png"/>
+
+<div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</div>
 
 ---
 
