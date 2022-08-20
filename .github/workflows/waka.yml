@@ -2,7 +2,7 @@ name: Update Waka in READMD.md
 
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '10 1 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
