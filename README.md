@@ -55,17 +55,7 @@
 ![gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
   <br/>
-</div>
-
-<div align=center>
-  <br/>
-  <br/>
-  
-  ## Side Projects
-  
-  <br/>
-</div>
-  
+</div>  
 <div>
 
   <div>
@@ -129,3 +119,11 @@
 - [멘카오리: 서울 강남(신논현역)](https://spearkkk.dev/entry/%EB%A9%98%EC%B9%B4%EC%98%A4%EB%A6%AC-%EC%84%9C%EC%9A%B8-%EA%B0%95%EB%82%A8%EC%8B%A0%EB%85%BC%ED%98%84%EC%97%AD)
 <!-- BLOGPOSTS:END -->
 </div>  
+<div align=center>
+  <br/>
+  <br/>
+  
+  ## Side Projects
+  
+  <br/>
+</div>
