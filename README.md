@@ -73,13 +73,6 @@
     
   </div>
   
-  <img align=right width=500 src="https://spotify-readme-spearkkk.vercel.app/api?scan=true&rainbow=true&theme=dark"/>
-  <img align=right width=500 height=10 src="./nothing.png"/>
-  <img align=right width=500 src="https://leetcard.jacoblin.cool/spearkkk?theme=nord&font=Nanum%20Gothic%20Coding&ext=activity"/>
-  <!-- <img align=right width=500 height=10 src="./nothing.png"/> -->
-  <!-- <img align=right width=500 src="https://github-readme-stats.vercel.app/api?username=spearkkk&count_private=true&show_icons=true&theme=gruvbox&custom_title=Github%20Activity&hide_rank=true&line_height=25&show_owner=false"/> -->
-  <img align=right width=500 height=10 src="./nothing.png"/>
-  
   <!-- BLOGPOSTS:START -->
 - [Test](https://spearkkk.dev/entry/Test)
 - ['process completed' in Mac OS X](https://spearkkk.dev/entry/process-completed-in-Mac-OS-X)
@@ -92,6 +85,13 @@
 - [[Error] javax.net.ssl.SSLException](https://spearkkk.dev/entry/Error-javaxnetsslSSLException)
 - [OSX(맥)에서 공인인증서 찾기](https://spearkkk.dev/entry/OSX%EB%A7%A5%EC%97%90%EC%84%9C-%EA%B3%B5%EC%9D%B8%EC%9D%B8%EC%A6%9D%EC%84%9C-%EC%B0%BE%EA%B8%B0)
 <!-- BLOGPOSTS:END -->
+
+  <img align=right width=500 src="https://spotify-readme-spearkkk.vercel.app/api?scan=true&rainbow=true&theme=dark"/>
+  <img align=right width=500 height=10 src="./nothing.png"/>
+  <img align=right width=500 src="https://leetcard.jacoblin.cool/spearkkk?theme=nord&font=Nanum%20Gothic%20Coding&ext=activity"/>
+  <!-- <img align=right width=500 height=10 src="./nothing.png"/> -->
+  <!-- <img align=right width=500 src="https://github-readme-stats.vercel.app/api?username=spearkkk&count_private=true&show_icons=true&theme=gruvbox&custom_title=Github%20Activity&hide_rank=true&line_height=25&show_owner=false"/> -->
+  <img align=right width=500 height=10 src="./nothing.png"/>
 
 </div>  
 
