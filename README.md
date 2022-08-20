@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Changkwon+😎&height=150&width=1024&size=36&color=458588&background=282828&center=true&vCenter=true&multiline=false&duration=2000&pause=0)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Changkwon+😎&height=150&width=1024&size=40&color=458588&background=282828&center=true&vCenter=true&multiline=false&duration=2000&pause=0)
 
 <div align=right>
   <br/>
@@ -39,8 +39,8 @@
 
 <div align=right>
   <br/>
-  <h3>Skils</h3>
-  <br/>
+  <h3>⌨️ Skils</h3>
+
   <img align=left width=450 height=200 src="./nothing.png"/>
   
 ![spring-boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
@@ -56,32 +56,6 @@
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
   <br/>
 </div>  
-<div>
-
-  <div>
-  
-  ### Run & Gun (In-progress)
-  This service is to find people who loves basketball.  
-  Find new player or join basketball game.  
-  
-  </div>
-
-  <br/>
-
-  <div>
-    
-  <img align=right height=200 src="./wedding.jpeg"/>
-
-  ### Wedding
-  This web page is for my wedding.
-
-  - Marriage Story: [See Now](https://wedding.spearkkk.dev/)
-  - Thank U Card: [See Now](https://after-wedding.spearkkk.dev/)
-  
-  </div>
-  
-</div>  
-
 <div align=center>
   <br/>
   <br/>
@@ -95,7 +69,7 @@
   
   <div>
     
-  ### My Posts
+  ### ✍️ Posts
     
   </div>
   
@@ -119,11 +93,38 @@
 - [멘카오리: 서울 강남(신논현역)](https://spearkkk.dev/entry/%EB%A9%98%EC%B9%B4%EC%98%A4%EB%A6%AC-%EC%84%9C%EC%9A%B8-%EA%B0%95%EB%82%A8%EC%8B%A0%EB%85%BC%ED%98%84%EC%97%AD)
 <!-- BLOGPOSTS:END -->
 </div>  
-<div align=center>
+
+<img align=center width=1024 height=1 src="./nothing.png"/>
+
+---
+
+<div>
+  <div align=left>
+    
+  ### Side Projects
+    
+  </div>
   <br/>
-  <br/>
+  <div>
   
-  ## Side Projects
+  #### Run & Gun (In-progress)
+  This service is to find people who loves basketball.  
+  Find new player or join basketball game.  
   
+  </div>
+
   <br/>
+
+  <div>
+    
+  <img align=right height=200 src="./wedding.jpeg"/>
+
+  #### Wedding
+  This web page is for my wedding.
+
+  - Marriage Story: [See Now](https://wedding.spearkkk.dev/)
+  - Thank U Card: [See Now](https://after-wedding.spearkkk.dev/)
+  
+  </div>
+</div> 
 </div>
