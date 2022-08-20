@@ -41,7 +41,7 @@
   <br/>
   <h3>⌨️ Skils</h3>
 
-  <img align=left width=450 height=200 src="./nothing.png"/>
+  <img align=left width=450 height=10 src="./nothing.png"/>
   
 ![spring-boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
