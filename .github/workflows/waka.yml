@@ -20,5 +20,5 @@ jobs:
           SHOW_LANGUAGE: "False"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_PROFILE_VIEWS: "False"
-          SHOW_COMMIT: "False"
           SHOW_UPDATED_DATE: "False"
+          SHOW_TIMEZONE: "False"
