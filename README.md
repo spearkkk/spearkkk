@@ -1,5 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Changkwon+😎&height=150&width=1024&size=40&color=458588&background=282828&center=true&vCenter=true&multiline=false&duration=2000&pause=0)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div align=right>
   <br/>
   <br/>  
@@ -73,12 +76,12 @@
     
   </div>
   
-  <img align=right width=450 src="https://spotify-readme-spearkkk.vercel.app/api?scan=true&rainbow=true&theme=dark"/>
-  <img align=right width=450 height=10 src="./nothing.png"/>
-  <img align=right width=450 src="https://leetcard.jacoblin.cool/spearkkk?theme=nord&font=Nanum%20Gothic%20Coding&ext=activity"/>
-  <img align=right width=450 height=10 src="./nothing.png"/>
-  <img align=right width=450 src="https://github-readme-stats.vercel.app/api?username=spearkkk&count_private=true&show_icons=true&theme=gruvbox&custom_title=Github%20Activity&hide_rank=true&line_height=25&show_owner=false"/>
-  <img align=right width=450 height=10 src="./nothing.png"/>
+  <img align=right width=500 src="https://spotify-readme-spearkkk.vercel.app/api?scan=true&rainbow=true&theme=dark"/>
+  <img align=right width=500 height=10 src="./nothing.png"/>
+  <img align=right width=500 src="https://leetcard.jacoblin.cool/spearkkk?theme=nord&font=Nanum%20Gothic%20Coding&ext=activity"/>
+  <img align=right width=500 height=10 src="./nothing.png"/>
+  <img align=right width=500 src="https://github-readme-stats.vercel.app/api?username=spearkkk&count_private=true&show_icons=true&theme=gruvbox&custom_title=Github%20Activity&hide_rank=true&line_height=25&show_owner=false"/>
+  <img align=right width=500 height=10 src="./nothing.png"/>
   
   <!-- BLOGPOSTS:START -->
 - ['process completed' in Mac OS X](https://spearkkk.dev/entry/process-completed-in-Mac-OS-X)
@@ -92,9 +95,6 @@
 - [OSX(맥)에서 공인인증서 찾기](https://spearkkk.dev/entry/OSX%EB%A7%A5%EC%97%90%EC%84%9C-%EA%B3%B5%EC%9D%B8%EC%9D%B8%EC%A6%9D%EC%84%9C-%EC%B0%BE%EA%B8%B0)
 - [멘카오리: 서울 강남(신논현역)](https://spearkkk.dev/entry/%EB%A9%98%EC%B9%B4%EC%98%A4%EB%A6%AC-%EC%84%9C%EC%9A%B8-%EA%B0%95%EB%82%A8%EC%8B%A0%EB%85%BC%ED%98%84%EC%97%AD)
 <!-- BLOGPOSTS:END -->
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 </div>  
 
