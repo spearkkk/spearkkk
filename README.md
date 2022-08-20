@@ -132,4 +132,65 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-166-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 774 Contributions in the Year 2022
+ > 
+> 📦 1.2 MB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 26 Public Repositories 
+ > 
+> 🔑 3 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.96% 
+🌆 Daytime    136 commits    █████░░░░░░░░░░░░░░░░░░░░   20.09% 
+🌃 Evening    340 commits    ████████████░░░░░░░░░░░░░   50.22% 
+🌙 Night      120 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.73%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.96% 
+Tuesday      78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.52% 
+Wednesday    87 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.85% 
+Thursday     96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.18% 
+Friday       152 commits    █████░░░░░░░░░░░░░░░░░░░░   22.45% 
+Saturday     91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.44% 
+Sunday       92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.59%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/spearkkk/spearkkk/main/charts/bar_graph.png) 
+
+
+ Last Updated on 20/08/2022 08:56:25 UTC
 <!--END_SECTION:waka-->
