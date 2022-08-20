@@ -92,6 +92,10 @@
 - [OSX(맥)에서 공인인증서 찾기](https://spearkkk.dev/entry/OSX%EB%A7%A5%EC%97%90%EC%84%9C-%EA%B3%B5%EC%9D%B8%EC%9D%B8%EC%A6%9D%EC%84%9C-%EC%B0%BE%EA%B8%B0)
 - [멘카오리: 서울 강남(신논현역)](https://spearkkk.dev/entry/%EB%A9%98%EC%B9%B4%EC%98%A4%EB%A6%AC-%EC%84%9C%EC%9A%B8-%EA%B0%95%EB%82%A8%EC%8B%A0%EB%85%BC%ED%98%84%EC%97%AD)
 <!-- BLOGPOSTS:END -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 </div>  
 
 <img align=center width=1024 height=1 src="./nothing.png"/>
