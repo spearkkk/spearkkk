@@ -101,7 +101,7 @@
 <div>
   <div align=left>
     
-  ### Side Projects
+  ### 💻 Side Projects
     
   </div>
   <br/>
