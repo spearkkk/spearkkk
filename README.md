@@ -1,4 +1,4 @@
-![banner](./banner.png)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Changkwon+😎&height=150&width=1024&size=36&color=EBDBB2&background=282828&center=true&vCenter=true&multiline=false&duration=2000&pause=0)
 
 <div align=right>
   <br/>
