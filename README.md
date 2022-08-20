@@ -94,6 +94,30 @@
 <!-- BLOGPOSTS:END -->
 
 <!--START_SECTION:waka-->
+**🐱 My GitHub Data** 
+
+> 🏆 774 Contributions in the Year 2022
+ > 
+> 📦 1.2 MB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 26 Public Repositories 
+ > 
+> 🔑 3 Private Repositories  
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Seoul
+
+```
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/spearkkk/spearkkk/main/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 </div>  
