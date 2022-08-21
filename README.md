@@ -83,6 +83,8 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
+- [2019년 회고(3년차)](https://spearkkk.dev/entry/2019%EB%85%84-%ED%9A%8C%EA%B3%A03%EB%85%84%EC%B0%A8)
+- [2018년 회고(2년차)](https://spearkkk.dev/entry/2018%EB%85%84-%ED%9A%8C%EA%B3%A02%EB%85%84%EC%B0%A8)
 - [2017년 회고(1년차)](https://spearkkk.dev/entry/Test)
 - ['process completed' in Mac OS X](https://spearkkk.dev/entry/process-completed-in-Mac-OS-X)
 - [블랙박스 DIY: 70mai a800s](https://spearkkk.dev/entry/%EB%B8%94%EB%9E%99%EB%B0%95%EC%8A%A4-DIY-70mai-a800s)
@@ -91,8 +93,6 @@
 - [Tailwindcss + Custom Font](https://spearkkk.dev/entry/Tailwindcss-Custom-Font)
 - [WebpackError: ReferenceError: window is not defined](https://spearkkk.dev/entry/WebpackError-ReferenceError-window-is-not-defined)
 - [Intellij에서 Jira와 연결이 되지 않을 때(captcha)](https://spearkkk.dev/entry/Intellij%EC%97%90%EC%84%9C-Jira%EC%99%80-%EC%97%B0%EA%B2%B0%EC%9D%B4-%EB%90%98%EC%A7%80-%EC%95%8A%EC%9D%84-%EB%95%8Ccaptcha)
-- [[Error] javax.net.ssl.SSLException](https://spearkkk.dev/entry/Error-javaxnetsslSSLException)
-- [OSX(맥)에서 공인인증서 찾기](https://spearkkk.dev/entry/OSX%EB%A7%A5%EC%97%90%EC%84%9C-%EA%B3%B5%EC%9D%B8%EC%9D%B8%EC%A6%9D%EC%84%9C-%EC%B0%BE%EA%B8%B0)
 <!-- BLOGPOSTS:END -->
 
 </div>  
