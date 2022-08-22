@@ -83,6 +83,7 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
+- [Interned String in JAVA](https://spearkkk.dev/entry/interned-string-in-java)
 - [2019년 회고(3년차)](https://spearkkk.dev/entry/2019%EB%85%84-%ED%9A%8C%EA%B3%A03%EB%85%84%EC%B0%A8)
 - [2018년 회고(2년차)](https://spearkkk.dev/entry/2018%EB%85%84-%ED%9A%8C%EA%B3%A02%EB%85%84%EC%B0%A8)
 - [2017년 회고(1년차)](https://spearkkk.dev/entry/Test)
@@ -92,7 +93,6 @@
 - [한글 지원 콘솔 게임 폰트: 둥근모꼴](https://spearkkk.dev/entry/%ED%95%9C%EA%B8%80-%EC%A7%80%EC%9B%90-%EC%BD%98%EC%86%94-%EA%B2%8C%EC%9E%84-%ED%8F%B0%ED%8A%B8-%EB%91%A5%EA%B7%BC%EB%AA%A8%EA%BC%B4)
 - [Tailwindcss + Custom Font](https://spearkkk.dev/entry/Tailwindcss-Custom-Font)
 - [WebpackError: ReferenceError: window is not defined](https://spearkkk.dev/entry/WebpackError-ReferenceError-window-is-not-defined)
-- [Intellij에서 Jira와 연결이 되지 않을 때(captcha)](https://spearkkk.dev/entry/Intellij%EC%97%90%EC%84%9C-Jira%EC%99%80-%EC%97%B0%EA%B2%B0%EC%9D%B4-%EB%90%98%EC%A7%80-%EC%95%8A%EC%9D%84-%EB%95%8Ccaptcha)
 <!-- BLOGPOSTS:END -->
 
 </div>  
