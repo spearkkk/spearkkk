@@ -192,7 +192,8 @@ DataGrip                 0 secs              ░░░░░░░░░░░�
 
   <div>
     
-  <img align=right height=200 width=450 src="./wedding.jpeg"/>
+  <img align=right height=200 src="./wedding.jpeg"/>
+  <img align=right width=450 height=10 src="./nothing.png"/>
 
   #### Wedding
   This web page is for my wedding.
