@@ -83,6 +83,7 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
+- [맥이 고장남](https://spearkkk.dev/entry/%EB%A7%A5%EC%9D%B4-%EA%B3%A0%EC%9E%A5%EB%82%A8)
 - [2021년 회고(5년차)](https://spearkkk.dev/entry/2021%EB%85%84-%ED%9A%8C%EA%B3%A05%EB%85%84%EC%B0%A8)
 - [Airflow에서 스파크 앱이 실패로 마킹될 때](https://spearkkk.dev/entry/Airflow%EC%97%90%EC%84%9C-%EC%8A%A4%ED%8C%8C%ED%81%AC-%EC%95%B1%EC%9D%B4-%EC%8B%A4%ED%8C%A8%EB%A1%9C-%EB%A7%88%ED%82%B9%EB%90%A0-%EB%95%8C)
 - [Interned String in JAVA](https://spearkkk.dev/entry/interned-string-in-java)
@@ -92,7 +93,6 @@
 - ['process completed' in Mac OS X](https://spearkkk.dev/entry/process-completed-in-Mac-OS-X)
 - [블랙박스 DIY: 70mai a800s](https://spearkkk.dev/entry/%EB%B8%94%EB%9E%99%EB%B0%95%EC%8A%A4-DIY-70mai-a800s)
 - [WebpackError: ReferenceError: Audio is not defined](https://spearkkk.dev/entry/WebpackError-ReferenceError-Audio-is-not-defined)
-- [한글 지원 콘솔 게임 폰트: 둥근모꼴](https://spearkkk.dev/entry/%ED%95%9C%EA%B8%80-%EC%A7%80%EC%9B%90-%EC%BD%98%EC%86%94-%EA%B2%8C%EC%9E%84-%ED%8F%B0%ED%8A%B8-%EB%91%A5%EA%B7%BC%EB%AA%A8%EA%BC%B4)
 <!-- BLOGPOSTS:END -->
 
 </div>  
