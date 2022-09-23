@@ -98,12 +98,12 @@
 </div>  
 <br/>
 
-### 🏃 Tracking 
+### 🏃 Tracking
 
-- [2021년 회고(5년차)](https://spearkkk.dev/entry/2021%EB%85%84-%ED%9A%8C%EA%B3%A05%EB%85%84%EC%B0%A8)
-- [2019년 회고(3년차)](https://spearkkk.dev/entry/2019%EB%85%84-%ED%9A%8C%EA%B3%A03%EB%85%84%EC%B0%A8)
-- [2018년 회고(2년차)](https://spearkkk.dev/entry/2018%EB%85%84-%ED%9A%8C%EA%B3%A02%EB%85%84%EC%B0%A8)
-- [2017년 회고(1년차)](https://spearkkk.dev/entry/Test)
+- [2021년 회고(5년차)](https://spearkkk.dev/5%EB%85%84%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
+- [2019년 회고(3년차)](https://spearkkk.dev/3%EB%85%84%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
+- [2018년 회고(2년차)](https://spearkkk.dev/2%EB%85%84%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
+- [2017년 회고(1년차)](https://spearkkk.dev/1%EB%85%84%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
 
 <br/>
 <br/>
