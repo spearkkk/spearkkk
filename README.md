@@ -83,16 +83,16 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
-- [맥이 고장남](https://spearkkk.dev/entry/%EB%A7%A5%EC%9D%B4-%EA%B3%A0%EC%9E%A5%EB%82%A8)
-- [2021년 회고(5년차)](https://spearkkk.dev/entry/2021%EB%85%84-%ED%9A%8C%EA%B3%A05%EB%85%84%EC%B0%A8)
-- [Airflow에서 스파크 앱이 실패로 마킹될 때](https://spearkkk.dev/entry/Airflow%EC%97%90%EC%84%9C-%EC%8A%A4%ED%8C%8C%ED%81%AC-%EC%95%B1%EC%9D%B4-%EC%8B%A4%ED%8C%A8%EB%A1%9C-%EB%A7%88%ED%82%B9%EB%90%A0-%EB%95%8C)
-- [Interned String in JAVA](https://spearkkk.dev/entry/interned-string-in-java)
-- [2019년 회고(3년차)](https://spearkkk.dev/entry/2019%EB%85%84-%ED%9A%8C%EA%B3%A03%EB%85%84%EC%B0%A8)
-- [2018년 회고(2년차)](https://spearkkk.dev/entry/2018%EB%85%84-%ED%9A%8C%EA%B3%A02%EB%85%84%EC%B0%A8)
-- [2017년 회고(1년차)](https://spearkkk.dev/entry/Test)
-- ['process completed' in Mac OS X](https://spearkkk.dev/entry/process-completed-in-Mac-OS-X)
-- [블랙박스 DIY: 70mai a800s](https://spearkkk.dev/entry/%EB%B8%94%EB%9E%99%EB%B0%95%EC%8A%A4-DIY-70mai-a800s)
-- [WebpackError: ReferenceError: Audio is not defined](https://spearkkk.dev/entry/WebpackError-ReferenceError-Audio-is-not-defined)
+- [자바의 문자열을 조금 다르다?](https://spearkkk.dev/interned-string)
+- [할인 가격이 조금씩 다르다.](https://spearkkk.dev/promotion-price-trouble-shooting)
+- ['process completed' in Mac OS X](https://spearkkk.dev/process-completed-in-mac-os-x)
+- [WebpackError: ReferenceError: Audio is not defined](https://spearkkk.dev/webpack-error-reference-error-audio-is-not-defined)
+- [[Error] javax.net.ssl.SSLException](https://spearkkk.dev/javax-net-ssl-sslexception)
+- [Tailwindcss + Custom Font](https://spearkkk.dev/tailwindcss-custom-font)
+- [No tests found for given includes](https://spearkkk.dev/no-tests-found-for-given-includes)
+- [Intellij에서 Jira와 연결이 되지 않을 때(captcha)](https://spearkkk.dev/intellij-jira-captcha)
+- [2021년 회고(5년차)](https://spearkkk.dev/5년차-회고)
+- [2020년 회고(4년차)](https://spearkkk.dev/4년차-회고)
 <!-- BLOGPOSTS:END -->
 
 </div>  
