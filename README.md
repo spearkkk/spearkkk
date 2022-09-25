@@ -84,7 +84,7 @@
   
   <!-- BLOGPOSTS:START -->
 - [자바의 문자열을 조금 다르다?](https://spearkkk.dev/interned-string)
-- [할인 가격이 조금씩 다르다.](https://spearkkk.dev/promotion-price-trouble-shooting)
+- [할인 가격이 미묘하게 다르다, 나비효과인가](https://spearkkk.dev/promotion-price-trouble-shooting)
 - ['process completed' in Mac OS X](https://spearkkk.dev/process-completed-in-mac-os-x)
 - [WebpackError: ReferenceError: Audio is not defined](https://spearkkk.dev/webpack-error-reference-error-audio-is-not-defined)
 - [[Error] javax.net.ssl.SSLException](https://spearkkk.dev/javax-net-ssl-sslexception)
