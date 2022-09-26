@@ -92,7 +92,7 @@
 - [No tests found for given includes](https://spearkkk.dev/no-tests-found-for-given-includes)
 - [Intellij에서 Jira와 연결이 되지 않을 때(captcha)](https://spearkkk.dev/intellij-jira-captcha)
 - [2021년 회고(5년차)](https://spearkkk.dev/5년차-회고)
-- [2020년 회고(4년차)](https://spearkkk.dev/4년차-회고)
+- [비싼 의자가 필요할까?](https://spearkkk.dev/chair-experience)
 <!-- BLOGPOSTS:END -->
 
 </div>  
