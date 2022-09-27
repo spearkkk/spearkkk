@@ -92,7 +92,7 @@
 - [No tests found for given includes](https://spearkkk.dev/no-tests-found-for-given-includes)
 - [Intellij에서 Jira와 연결이 되지 않을 때(captcha)](https://spearkkk.dev/intellij-jira-captcha)
 - [2021년 회고(5년차)](https://spearkkk.dev/5년차-회고)
-- [비싼 의자가 필요할까?](https://spearkkk.dev/chair-experience)
+- [아이폰 사진 합치기: 그리드(Grid)](https://spearkkk.dev/iphone-grid)
 <!-- BLOGPOSTS:END -->
 
 </div>  
