@@ -83,16 +83,16 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
+- [Stack & Queue](https://spearkkk.dev/stack-queue)
+- [사이드 프로젝트: 결혼알림장 만들기](https://spearkkk.dev/project-wedding)
+- [Array](https://spearkkk.dev/array)
+- [Heap](https://spearkkk.dev/heap)
 - [자바의 문자열을 조금 다르다?](https://spearkkk.dev/interned-string)
 - [할인 가격이 미묘하게 다르다, 나비효과인가](https://spearkkk.dev/promotion-price-trouble-shooting)
 - ['process completed' in Mac OS X](https://spearkkk.dev/process-completed-in-mac-os-x)
 - [WebpackError: ReferenceError: Audio is not defined](https://spearkkk.dev/webpack-error-reference-error-audio-is-not-defined)
 - [[Error] javax.net.ssl.SSLException](https://spearkkk.dev/javax-net-ssl-sslexception)
 - [Tailwindcss + Custom Font](https://spearkkk.dev/tailwindcss-custom-font)
-- [No tests found for given includes](https://spearkkk.dev/no-tests-found-for-given-includes)
-- [Intellij에서 Jira와 연결이 되지 않을 때(captcha)](https://spearkkk.dev/intellij-jira-captcha)
-- [2021년 회고(5년차)](https://spearkkk.dev/5년차-회고)
-- [아이폰 사진 합치기: 그리드(Grid)](https://spearkkk.dev/iphone-grid)
 <!-- BLOGPOSTS:END -->
 
 </div>  
