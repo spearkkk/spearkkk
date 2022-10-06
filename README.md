@@ -83,6 +83,7 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
+- [Spock, Redis with SpringBoot + Test Containers](https://spearkkk.dev/spock-redis-with-spring-boot-test-containers)
 - [Stack & Queue](https://spearkkk.dev/stack-queue)
 - [사이드 프로젝트: 결혼알림장 만들기](https://spearkkk.dev/project-wedding)
 - [Array](https://spearkkk.dev/array)
@@ -92,7 +93,6 @@
 - ['process completed' in Mac OS X](https://spearkkk.dev/process-completed-in-mac-os-x)
 - [WebpackError: ReferenceError: Audio is not defined](https://spearkkk.dev/webpack-error-reference-error-audio-is-not-defined)
 - [[Error] javax.net.ssl.SSLException](https://spearkkk.dev/javax-net-ssl-sslexception)
-- [Tailwindcss + Custom Font](https://spearkkk.dev/tailwindcss-custom-font)
 <!-- BLOGPOSTS:END -->
 
 </div>  
