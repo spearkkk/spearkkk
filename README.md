@@ -84,10 +84,10 @@
   
   <!-- BLOGPOSTS:START -->
 - [Spock, Redis with SpringBoot + Test Containers](https://spearkkk.dev/spock-redis-with-spring-boot-test-containers)
-- [Stack & Queue](https://spearkkk.dev/stack-queue)
-- [사이드 프로젝트: 결혼알림장 만들기](https://spearkkk.dev/project-wedding)
 - [Array](https://spearkkk.dev/array)
 - [Heap](https://spearkkk.dev/heap)
+- [Stack & Queue](https://spearkkk.dev/stack-queue)
+- [사이드 프로젝트: 결혼알림장 만들기](https://spearkkk.dev/project-wedding)
 - [자바의 문자열을 조금 다르다?](https://spearkkk.dev/interned-string)
 - [할인 가격이 미묘하게 다르다, 나비효과인가](https://spearkkk.dev/promotion-price-trouble-shooting)
 - ['process completed' in Mac OS X](https://spearkkk.dev/process-completed-in-mac-os-x)
