@@ -16,7 +16,7 @@
   I am interested in event streaming processing and scalable system.<br/>
   <br/>
   
-  <a href="https://about.spearkkk.dev/en/" target="_blank">
+  <a href="https://about.spearkkk.dev/" target="_blank">
     <img src="https://img.shields.io/badge/website-305D61.svg?&style=for-the-badge&logo=About.me&logoColor=ffffff&labelColor=305D61&logoWidth=20"/>
   </a>
   <a href="https://www.linkedin.com/in/changkwon-jeong-754376135/" target="_blank">
@@ -32,13 +32,17 @@
   👨🏼‍💻 I'm working CPNG in Republic of Korea.
   <br/>
   
-  🍿 I like to watch series & movies. [Korea Movies](http://www.imdb.com/list/ls561052842/), [Korea Series](http://www.imdb.com/list/ls561052813/)
+  🍿 I like to watch series & movies.
   <br/>
 
   <div align="left">
 
 >🤔'어제'의 내가 신앙인양 찾고 매달렸던 이 '내일'이라는 것은, 헛되이 쓰고 있는 '오늘'의 그저 다른 표현일 뿐이니까.  
+<br/>
+
 >📝배부를때 노력하는 것은 정말 어렵다.  
+<br/>
+
 >⚙️절차는 절차일 뿐, 대단한 무언가가 아닙니다. 항상 스스로 물어봐야 합니다. 우리가 절차를 이용하고 있는지, 우리가 그 절차에 그냥 속해있는지.
 
   </div>
