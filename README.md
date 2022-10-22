@@ -25,6 +25,9 @@
   <a href="https://about.spearkkk.dev/resume/" target="_blank">
     <img src="https://img.shields.io/badge/resume-305D61.svg?&style=for-the-badge&logo=ReadtheDocs&logoColor=ffffff&labelColor=305D61&logoWidth=20"/>
   </a>
+  <a href="https://spearkkk.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/blog-305D61.svg?&style=for-the-badge&logo=ReadtheDocs&logoColor=ffffff&labelColor=305D61&logoWidth=20"/>
+  </a>
   
   <br/>
   <br/>
@@ -34,18 +37,6 @@
   
   🍿 I like to watch series & movies.
   <br/>
-
-  <div align="left">
-
->🤔'어제'의 내가 신앙인양 찾고 매달렸던 이 '내일'이라는 것은, 헛되이 쓰고 있는 '오늘'의 그저 다른 표현일 뿐이니까.  
-<br/>
-
->📝배부를때 노력하는 것은 정말 어렵다.  
-<br/>
-
->⚙️절차는 절차일 뿐, 대단한 무언가가 아닙니다. 항상 스스로 물어봐야 합니다. 우리가 절차를 이용하고 있는지, 우리가 그 절차에 그냥 속해있는지.
-
-  </div>
 
 </div>
 
@@ -108,18 +99,19 @@
 <!-- BLOGPOSTS:END -->
 
 </div>  
+
+  <div align="left">
+
+>🤔'어제'의 내가 신앙인양 찾고 매달렸던 이 '내일'이라는 것은, 헛되이 쓰고 있는 '오늘'의 그저 다른 표현일 뿐이니까.  
 <br/>
 
-### 🏃 Tracking
-
-- [2021년 회고(5년차)](https://spearkkk.dev/5%EB%85%84%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
-- [2019년 회고(3년차)](https://spearkkk.dev/3%EB%85%84%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
-- [2018년 회고(2년차)](https://spearkkk.dev/2%EB%85%84%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
-- [2017년 회고(1년차)](https://spearkkk.dev/1%EB%85%84%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
-
-<br/>
+>📝배부를때 노력하는 것은 정말 어렵다.  
 <br/>
 
+>⚙️절차는 절차일 뿐, 대단한 무언가가 아닙니다. 항상 스스로 물어봐야 합니다. 우리가 절차를 이용하고 있는지, 우리가 그 절차에 그냥 속해있는지.
+
+  </div>
+  
 <div>
   
 <!--START_SECTION:waka-->
