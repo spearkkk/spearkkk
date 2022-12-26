@@ -84,16 +84,16 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
+- [SOLID Principle](https://spearkkk.dev/solid-principle)
 - [레디스에서 왜 `keys` 명령어를 쓰면 안될까?](https://spearkkk.dev/redis-keys)
 - [청와옥](https://spearkkk.dev/청와옥)
 - [꼬리 재귀(Tail Recursion)에 대한 생각](https://spearkkk.dev/about-tail-recursion)
 - [Spock, Redis with SpringBoot + Test Containers](https://spearkkk.dev/spock-redis-with-spring-boot-test-containers)
 - [Array](https://spearkkk.dev/array)
 - [Heap](https://spearkkk.dev/heap)
-- [Stack & Queue](https://spearkkk.dev/stack-queue)
 - [사이드 프로젝트: 결혼알림장 만들기](https://spearkkk.dev/project-wedding)
+- [Stack & Queue](https://spearkkk.dev/stack-queue)
 - [자바의 문자열을 조금 다르다?](https://spearkkk.dev/interned-string)
-- [할인 가격이 미묘하게 다르다, 나비효과인가](https://spearkkk.dev/promotion-price-trouble-shooting)
 <!-- BLOGPOSTS:END -->
 
 </div>  
