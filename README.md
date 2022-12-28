@@ -84,6 +84,8 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
+- [Map Struct를 도입하자](https://spearkkk.dev/map-struct)
+- [빠른 리턴(early return)에 대한 생각](https://spearkkk.dev/early-return)
 - [SOLID Principle](https://spearkkk.dev/solid-principle)
 - [레디스에서 왜 `keys` 명령어를 쓰면 안될까?](https://spearkkk.dev/redis-keys)
 - [청와옥](https://spearkkk.dev/청와옥)
@@ -92,8 +94,6 @@
 - [Array](https://spearkkk.dev/array)
 - [Heap](https://spearkkk.dev/heap)
 - [사이드 프로젝트: 결혼알림장 만들기](https://spearkkk.dev/project-wedding)
-- [Stack & Queue](https://spearkkk.dev/stack-queue)
-- [자바의 문자열을 조금 다르다?](https://spearkkk.dev/interned-string)
 <!-- BLOGPOSTS:END -->
 
 </div>  
