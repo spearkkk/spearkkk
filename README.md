@@ -84,6 +84,7 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
+- [Graph QL](https://spearkkk.dev/graph-ql)
 - [Map Struct를 도입하자](https://spearkkk.dev/map-struct)
 - [빠른 리턴(early return)에 대한 생각](https://spearkkk.dev/early-return)
 - [SOLID Principle](https://spearkkk.dev/solid-principle)
@@ -93,7 +94,6 @@
 - [Spock, Redis with SpringBoot + Test Containers](https://spearkkk.dev/spock-redis-with-spring-boot-test-containers)
 - [Array](https://spearkkk.dev/array)
 - [Heap](https://spearkkk.dev/heap)
-- [사이드 프로젝트: 결혼알림장 만들기](https://spearkkk.dev/project-wedding)
 <!-- BLOGPOSTS:END -->
 
 </div>  
