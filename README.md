@@ -84,6 +84,7 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
+- [MVC Pattern](https://spearkkk.dev/mvc-pattern)
 - [Graph QL](https://spearkkk.dev/graph-ql)
 - [Map Struct를 도입하자](https://spearkkk.dev/map-struct)
 - [빠른 리턴(early return)에 대한 생각](https://spearkkk.dev/early-return)
@@ -93,7 +94,6 @@
 - [꼬리 재귀(Tail Recursion)에 대한 생각](https://spearkkk.dev/about-tail-recursion)
 - [Spock, Redis with SpringBoot + Test Containers](https://spearkkk.dev/spock-redis-with-spring-boot-test-containers)
 - [Array](https://spearkkk.dev/array)
-- [Heap](https://spearkkk.dev/heap)
 <!-- BLOGPOSTS:END -->
 
 </div>  
