@@ -84,7 +84,7 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
-- [MVC Pattern](https://spearkkk.dev/mvc-pattern)
+- [MVC Pattern과 MVP, MVVM Pattern](https://spearkkk.dev/mvc-pattern)
 - [Graph QL](https://spearkkk.dev/graph-ql)
 - [Map Struct를 도입하자](https://spearkkk.dev/map-struct)
 - [빠른 리턴(early return)에 대한 생각](https://spearkkk.dev/early-return)
