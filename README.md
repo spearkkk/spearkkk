@@ -84,6 +84,7 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
+- [Transaction: Isolation Level](https://spearkkk.dev/transaction-isolation-level)
 - [MVC Pattern과 MVP, MVVM Pattern](https://spearkkk.dev/mvc-pattern)
 - [Graph QL](https://spearkkk.dev/graph-ql)
 - [Map Struct를 도입하자](https://spearkkk.dev/map-struct)
@@ -93,7 +94,6 @@
 - [청와옥](https://spearkkk.dev/청와옥)
 - [꼬리 재귀(Tail Recursion)에 대한 생각](https://spearkkk.dev/about-tail-recursion)
 - [Spock, Redis with SpringBoot + Test Containers](https://spearkkk.dev/spock-redis-with-spring-boot-test-containers)
-- [Array](https://spearkkk.dev/array)
 <!-- BLOGPOSTS:END -->
 
 </div>  
