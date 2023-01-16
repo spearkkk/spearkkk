@@ -84,6 +84,8 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
+- [Early Return](https://spearkkk.dev/early-return)
+- [Tail Recursion](https://spearkkk.dev/tail-recursion)
 - [JAVA: `volatile`](https://spearkkk.dev/java-volatile)
 - [Transaction](https://spearkkk.dev/transaction)
 - [JOIN, ON...AND vs. ON...WHERE](https://spearkkk.dev/join-on-and-on-where)
@@ -91,9 +93,7 @@
 - [MVC Pattern과 MVP, MVVM Pattern](https://spearkkk.dev/mvc-pattern)
 - [Graph QL](https://spearkkk.dev/graph-ql)
 - [Map Struct를 도입하자](https://spearkkk.dev/map-struct)
-- [빠른 리턴(early return)에 대한 생각](https://spearkkk.dev/early-return)
 - [SOLID Principle](https://spearkkk.dev/solid-principle)
-- [레디스에서 왜 `keys` 명령어를 쓰면 안될까?](https://spearkkk.dev/redis-keys)
 <!-- BLOGPOSTS:END -->
 
 </div>  
