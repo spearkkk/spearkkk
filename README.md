@@ -84,6 +84,7 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
+- [Map Struct 사용하기 - 1](https://spearkkk.dev/map-struct-1)
 - [Early Return](https://spearkkk.dev/early-return)
 - [Tail Recursion](https://spearkkk.dev/tail-recursion)
 - [JAVA: `volatile`](https://spearkkk.dev/java-volatile)
@@ -93,7 +94,6 @@
 - [MVC Pattern과 MVP, MVVM Pattern](https://spearkkk.dev/mvc-pattern)
 - [Graph QL](https://spearkkk.dev/graph-ql)
 - [Map Struct를 도입하자](https://spearkkk.dev/map-struct)
-- [SOLID Principle](https://spearkkk.dev/solid-principle)
 <!-- BLOGPOSTS:END -->
 
 </div>  
