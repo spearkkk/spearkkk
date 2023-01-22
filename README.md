@@ -39,15 +39,6 @@
   <br/>
 
 </div>
-
-<div align=center>
-  <br/>
-  <br/>
-  
-  ## What I Do
-  
-  <br/>
-</div>
   
 <div align=left>
   
@@ -70,21 +61,6 @@
 - [Map Struct를 도입하자](https://spearkkk.dev/map-struct)
 <!-- BLOGPOSTS:END -->
 
-</div>  
-
-  <div align="left">
-
->🤔'어제'의 내가 신앙인양 찾고 매달렸던 이 '내일'이라는 것은, 헛되이 쓰고 있는 '오늘'의 그저 다른 표현일 뿐이니까.  
-<br/>
-
->📝배부를때 노력하는 것은 정말 어렵다.  
-<br/>
-
->⚙️절차는 절차일 뿐, 대단한 무언가가 아닙니다. 항상 스스로 물어봐야 합니다. 우리가 절차를 이용하고 있는지, 우리가 그 절차에 그냥 속해있는지.
-
-  </div>
-  
-<div>
   
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
