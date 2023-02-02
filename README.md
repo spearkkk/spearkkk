@@ -49,16 +49,16 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
+- [Map Struct 사용하기 - 2](https://spearkkk.dev/map-struct-2)
+- [JAVA: volatile](https://spearkkk.dev/java-volatile)
 - [Map Struct 사용하기 - 1](https://spearkkk.dev/map-struct-1)
 - [Early Return](https://spearkkk.dev/early-return)
 - [Tail Recursion](https://spearkkk.dev/tail-recursion)
 - [JOIN, ON...AND vs. ON...WHERE](https://spearkkk.dev/join-on-and-on-where)
 - [Transaction](https://spearkkk.dev/transaction)
-- [JAVA: `volatile`](https://spearkkk.dev/java-volatile)
 - [Transaction: Isolation Level](https://spearkkk.dev/transaction-isolation-level)
 - [MVC Pattern과 MVP, MVVM Pattern](https://spearkkk.dev/mvc-pattern)
 - [Graph QL](https://spearkkk.dev/graph-ql)
-- [Map Struct를 도입하자](https://spearkkk.dev/map-struct)
 <!-- BLOGPOSTS:END -->
 
   
