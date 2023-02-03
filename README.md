@@ -49,16 +49,16 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
-- [Map Struct 사용하기 - 2](https://spearkkk.dev/map-struct-2)
+- [JAVA: Pass by Value or Reference](https://spearkkk.dev/java-pass-by-value-or-reference)
+- [2022년 회고(6년차)](https://spearkkk.dev/6년차-회고)
 - [JAVA: volatile](https://spearkkk.dev/java-volatile)
+- [Map Struct 사용하기 - 2](https://spearkkk.dev/map-struct-2)
 - [Map Struct 사용하기 - 1](https://spearkkk.dev/map-struct-1)
 - [Early Return](https://spearkkk.dev/early-return)
 - [Tail Recursion](https://spearkkk.dev/tail-recursion)
 - [JOIN, ON...AND vs. ON...WHERE](https://spearkkk.dev/join-on-and-on-where)
 - [Transaction](https://spearkkk.dev/transaction)
 - [Transaction: Isolation Level](https://spearkkk.dev/transaction-isolation-level)
-- [MVC Pattern과 MVP, MVVM Pattern](https://spearkkk.dev/mvc-pattern)
-- [Graph QL](https://spearkkk.dev/graph-ql)
 <!-- BLOGPOSTS:END -->
 
   
