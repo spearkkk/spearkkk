@@ -49,8 +49,8 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
-- [JAVA: Pass by Value or Reference](https://spearkkk.dev/java-pass-by-value-or-reference)
 - [2022년 회고(6년차)](https://spearkkk.dev/6년차-회고)
+- [JAVA: Pass by Value or Reference](https://spearkkk.dev/java-pass-by-value-or-reference)
 - [JAVA: volatile](https://spearkkk.dev/java-volatile)
 - [Map Struct 사용하기 - 2](https://spearkkk.dev/map-struct-2)
 - [Map Struct 사용하기 - 1](https://spearkkk.dev/map-struct-1)
