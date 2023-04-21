@@ -49,6 +49,7 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
+- [Cassandra Overview](https://spearkkk.dev/cassandra-overview)
 - [2022년 회고(6년차)](https://spearkkk.dev/6년차-회고)
 - [JAVA: Pass by Value or Reference](https://spearkkk.dev/java-pass-by-value-or-reference)
 - [JAVA: volatile](https://spearkkk.dev/java-volatile)
@@ -58,7 +59,6 @@
 - [Tail Recursion](https://spearkkk.dev/tail-recursion)
 - [JOIN, ON...AND vs. ON...WHERE](https://spearkkk.dev/join-on-and-on-where)
 - [Transaction](https://spearkkk.dev/transaction)
-- [Transaction: Isolation Level](https://spearkkk.dev/transaction-isolation-level)
 <!-- BLOGPOSTS:END -->
 
   
