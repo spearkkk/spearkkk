@@ -49,6 +49,8 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
+- [틀린 할인 가격에 대한 문제 해결](https://spearkkk.dev/trouble-shooting-about-wrong-price)
+- [꼬리 재귀(Tail Recursion)](https://spearkkk.dev/tail-recursion)
 - [Cassandra Overview](https://spearkkk.dev/cassandra-overview)
 - [2022년 회고(6년차)](https://spearkkk.dev/6년차-회고)
 - [JAVA: Pass by Value or Reference](https://spearkkk.dev/java-pass-by-value-or-reference)
@@ -56,9 +58,7 @@
 - [Map Struct 사용하기 - 2](https://spearkkk.dev/map-struct-2)
 - [Map Struct 사용하기 - 1](https://spearkkk.dev/map-struct-1)
 - [Early Return](https://spearkkk.dev/early-return)
-- [Tail Recursion](https://spearkkk.dev/tail-recursion)
 - [JOIN, ON...AND vs. ON...WHERE](https://spearkkk.dev/join-on-and-on-where)
-- [Transaction](https://spearkkk.dev/transaction)
 <!-- BLOGPOSTS:END -->
 
   
