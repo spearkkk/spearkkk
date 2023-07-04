@@ -49,6 +49,7 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
+- [데이터베이스 쿼리(Query)에 대하여: 조인(Join) - 1](https://spearkkk.dev/database-query-join-1.mdx)
 - [틀린 할인 가격에 대한 문제 해결](https://spearkkk.dev/trouble-shooting-about-wrong-price)
 - [꼬리 재귀(Tail Recursion)](https://spearkkk.dev/tail-recursion)
 - [Cassandra Overview](https://spearkkk.dev/cassandra-overview)
@@ -58,7 +59,6 @@
 - [Map Struct 사용하기 - 2](https://spearkkk.dev/map-struct-2)
 - [Map Struct 사용하기 - 1](https://spearkkk.dev/map-struct-1)
 - [Early Return](https://spearkkk.dev/early-return)
-- [JOIN, ON...AND vs. ON...WHERE](https://spearkkk.dev/join-on-and-on-where)
 <!-- BLOGPOSTS:END -->
 
   
