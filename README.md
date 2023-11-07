@@ -49,16 +49,16 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
+- [디스플레이 광고 시스템 분석하기 1편](https://spearkkk.dev/display-advertising-system-analysis-1)
 - [마케팅 카탈로그에 대한 글](https://spearkkk.dev/about-marketing-catalog)
 - [[LeetCode] 135. Candy](https://spearkkk.dev/leetcode-135-candy)
 - [[LeetCode] 316. Remove Duplicate Letters](https://spearkkk.dev/leetcode-316-remove-duplicate-letters)
 - [데이터베이스 쿼리(Query)에 대하여: 조인(Join) - 1](https://spearkkk.dev/database-query-join-1)
-- [꼬리 재귀(Tail Recursion)](https://spearkkk.dev/tail-recursion)
 - [틀린 할인 가격에 대한 문제 해결](https://spearkkk.dev/trouble-shooting-about-wrong-price)
+- [꼬리 재귀(Tail Recursion)](https://spearkkk.dev/tail-recursion)
 - [Cassandra Overview](https://spearkkk.dev/cassandra-overview)
 - [2022년 회고(6년차)](https://spearkkk.dev/6년차-회고)
 - [JAVA: Pass by Value or Reference](https://spearkkk.dev/java-pass-by-value-or-reference)
-- [JAVA: volatile](https://spearkkk.dev/java-volatile)
 <!-- BLOGPOSTS:END -->
 
   
