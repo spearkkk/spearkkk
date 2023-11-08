@@ -49,6 +49,7 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
+- [디스플레이 광고 시스템 분석하기 2편](https://spearkkk.dev/display-advertising-system-analysis-2)
 - [디스플레이 광고 시스템 분석하기 1편](https://spearkkk.dev/display-advertising-system-analysis-1)
 - [마케팅 카탈로그에 대한 글](https://spearkkk.dev/about-marketing-catalog)
 - [[LeetCode] 135. Candy](https://spearkkk.dev/leetcode-135-candy)
@@ -57,7 +58,6 @@
 - [틀린 할인 가격에 대한 문제 해결](https://spearkkk.dev/trouble-shooting-about-wrong-price)
 - [꼬리 재귀(Tail Recursion)](https://spearkkk.dev/tail-recursion)
 - [Cassandra Overview](https://spearkkk.dev/cassandra-overview)
-- [2022년 회고(6년차)](https://spearkkk.dev/6년차-회고)
 - [JAVA: Pass by Value or Reference](https://spearkkk.dev/java-pass-by-value-or-reference)
 <!-- BLOGPOSTS:END -->
 
