@@ -55,8 +55,8 @@
 - [🫑 [LeetCode] 135. Candy](https://spearkkk.devleetcode-135-candy)
 - [🫒 [LeetCode] 316. Remove Duplicate Letters](https://spearkkk.devleetcode-316-remove-duplicate-letters)
 - [🍏 데이터베이스 쿼리(Query)에 대하여: 조인(Join) - 1](https://spearkkk.devdatabase-query-join-1)
-- [🍒 꼬리 재귀(Tail Recursion)](https://spearkkk.devtail-recursion)
 - [🥒 틀린 할인 가격에 대한 문제 해결](https://spearkkk.devtrouble-shooting-about-wrong-price)
+- [🍒 꼬리 재귀(Tail Recursion)](https://spearkkk.devtail-recursion)
 - [🍅 Cassandra Overview](https://spearkkk.devcassandra-overview)
 - [📝 2022년 회고(6년차)](https://spearkkk.dev6%EB%85%84%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
 <!-- BLOGPOSTS:END -->
