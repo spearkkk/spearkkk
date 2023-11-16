@@ -15,14 +15,11 @@
   <br/>
   I am interested in event streaming processing and scalable system.<br/>
   <br/>
-  
-  <a href="https://about.spearkkk.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/website-305D61.svg?&style=for-the-badge&logo=About.me&logoColor=ffffff&labelColor=305D61&logoWidth=20"/>
-  </a>
+
   <a href="https://www.linkedin.com/in/changkwon-jeong-754376135/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-305D61.svg?&style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=305D61&logoWidth=20"/>
   </a>
-  <a href="https://about.spearkkk.dev/resume/" target="_blank">
+  <a href="http://localhost:8000/en/resume/" target="_blank">
     <img src="https://img.shields.io/badge/resume-305D61.svg?&style=for-the-badge&logo=ReadtheDocs&logoColor=ffffff&labelColor=305D61&logoWidth=20"/>
   </a>
   <a href="https://spearkkk.dev/" target="_blank">
