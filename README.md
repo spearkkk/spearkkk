@@ -46,6 +46,8 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
+- [🍆 백오피스 로그인 간헐적 실패](https://spearkkk.dev/back-office-login-failure)
+- [🧄 ES의 CPU 사용량 100% 문제 해결](https://spearkkk.dev/es-cpu-100-trouble-shooting)
 - [🍈 디스플레이 광고 시스템 분석하기 4편](https://spearkkk.dev/display-advertising-system-analysis-4)
 - [🍊 디스플레이 광고 시스템 분석하기 3편](https://spearkkk.dev/display-advertising-system-analysis-3)
 - [🍉 Error Handling for `gatsby-remark-images`](https://spearkkk.dev/error-handling-for-gatsby-remark-images)
@@ -54,8 +56,6 @@
 - [🍋 마케팅 카탈로그에 대한 글](https://spearkkk.dev/about-marketing-catalog)
 - [🫑 [LeetCode] 135. Candy](https://spearkkk.dev/leetcode-135-candy)
 - [🫒 [LeetCode] 316. Remove Duplicate Letters](https://spearkkk.dev/leetcode-316-remove-duplicate-letters)
-- [🍏 데이터베이스 쿼리(Query)에 대하여: 조인(Join) - 1](https://spearkkk.dev/database-query-join-1)
-- [🍒 꼬리 재귀(Tail Recursion)](https://spearkkk.dev/tail-recursion)
 <!-- BLOGPOSTS:END -->
 
   
