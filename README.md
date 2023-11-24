@@ -46,6 +46,7 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
+- [🍂 FTP 서버 연결이 끊기는 현상](https://spearkkk.dev/ftp-server-connection-failure)
 - [🍆 백오피스 로그인 간헐적 실패](https://spearkkk.dev/back-office-login-failure)
 - [🧄 ES의 CPU 사용량 100% 문제 해결](https://spearkkk.dev/es-cpu-100-trouble-shooting)
 - [🍈 디스플레이 광고 시스템 분석하기 4편](https://spearkkk.dev/display-advertising-system-analysis-4)
@@ -55,7 +56,6 @@
 - [🍇 디스플레이 광고 시스템 분석하기 1편](https://spearkkk.dev/display-advertising-system-analysis-1)
 - [🍋 마케팅 카탈로그에 대한 글](https://spearkkk.dev/about-marketing-catalog)
 - [🫑 [LeetCode] 135. Candy](https://spearkkk.dev/leetcode-135-candy)
-- [🫒 [LeetCode] 316. Remove Duplicate Letters](https://spearkkk.dev/leetcode-316-remove-duplicate-letters)
 <!-- BLOGPOSTS:END -->
 
   
