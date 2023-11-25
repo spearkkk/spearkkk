@@ -9,14 +9,8 @@
   
   Currently I work for E-commerce company in Seoul of Republic of Korea.<br/>
   <br/>
-  I like to solve simple problems,<br/>
-  but I also like to understand business or system situations and solve problems based on them.<br/>
-  When I solve a problem, I simplify the problem and start with small steps.<br/>
-  <br/>
-  I am interested in event streaming processing and scalable system.<br/>
-  <br/>
 
-  <a href="https://www.linkedin.com/in/changkwon-jeong-754376135/" target="_blank">
+  <a href="https://www.linkedin.com/in/spearkkk/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-305D61.svg?&style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=305D61&logoWidth=20"/>
   </a>
   <a href="http://spearkkk.dev/en/resume/" target="_blank">
