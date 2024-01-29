@@ -40,6 +40,7 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
+- [🫒 [백준] 2573. 빙산](https://spearkkk.dev/%EB%B0%B1%EC%A4%80-2573-%EB%B9%99%EC%82%B0)
 - [🌽 LSM Tree](https://spearkkk.dev/lsm-tree)
 - [🪖 군인](https://spearkkk.dev/soldier)
 - [📝 2023년 회고(7년차)](https://spearkkk.dev/7%EB%85%84%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
@@ -49,7 +50,6 @@
 - [🍆 백오피스 로그인 간헐적 실패](https://spearkkk.dev/back-office-login-failure)
 - [🧄 ES의 CPU 사용량 100% 문제 해결](https://spearkkk.dev/es-cpu-100-trouble-shooting)
 - [🍈 디스플레이 광고 시스템 분석하기 4편](https://spearkkk.dev/display-advertising-system-analysis-4)
-- [🍊 디스플레이 광고 시스템 분석하기 3편](https://spearkkk.dev/display-advertising-system-analysis-3)
 <!-- BLOGPOSTS:END -->
 
   
