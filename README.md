@@ -40,6 +40,7 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
+- [🥥 이직에 대해서](https://spearkkk.dev/about-changing-company)
 - [🍄 데이터프레임의 리밋에 대한 작은 고려 사항](https://spearkkk.dev/dataframe-limit)
 - [🫒 [백준] 2573. 빙산](https://spearkkk.dev/%EB%B0%B1%EC%A4%80-2573-%EB%B9%99%EC%82%B0)
 - [🌽 LSM Tree](https://spearkkk.dev/lsm-tree)
@@ -49,7 +50,6 @@
 - [🫑 [LeetCode] 543. Diameter of Binary Tree](https://spearkkk.dev/leetcode-543-diameter-of-binary-tree)
 - [🍂 FTP 서버 연결이 끊기는 현상](https://spearkkk.dev/ftp-server-connection-failure)
 - [🍆 백오피스 로그인 간헐적 실패](https://spearkkk.dev/back-office-login-failure)
-- [🧄 ES의 CPU 사용량 100% 문제 해결](https://spearkkk.dev/es-cpu-100-trouble-shooting)
 <!-- BLOGPOSTS:END -->
 
   
