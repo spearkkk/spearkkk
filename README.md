@@ -6,8 +6,10 @@
   <br/>
   
   **I am a software engineer who like to solve problem.**<br/>
+
+  I work for global messenger company in Republic of Korea.<br/> 
   
-  Currently I work for E-commerce company in Seoul of Republic of Korea.<br/>
+  I worked for E-commerce company in Republic of Korea.<br/>
   <br/>
 
   <a href="https://www.linkedin.com/in/spearkkk/" target="_blank">
@@ -23,7 +25,7 @@
   <br/>
   <br/>
   
-  👨🏼‍💻 I'm working CPNG in Republic of Korea.
+  👨🏼‍💻 I'm working LinePlus in Republic of Korea.
   <br/>
   
   🍿 I like to watch series & movies.
