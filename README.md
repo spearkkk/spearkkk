@@ -42,6 +42,7 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
+- [🥖 Column-oriented(Columnar) 저장 방식](https://spearkkk.dev/column-oriented)
 - [🍓 MyRocks Engine](https://spearkkk.dev/my-rocks_engine)
 - [📝 2024년, 첫 번째 이직: 백엔드 엔지니어에서 데이터 엔지니어로](https://spearkkk.dev/2024-first-changing-company-from-backend-to-data-engineer)
 - [🧑🏼‍🍳 2024년 이탈리아](https://spearkkk.dev/2024-italy)
@@ -51,7 +52,6 @@
 - [🪖 군인](https://spearkkk.dev/soldier)
 - [📝 2023년 회고(7년차)](https://spearkkk.dev/7%EB%85%84%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
 - [🍞 같은 데이터프레임이 서로 다른 값을 가지는 현상](https://spearkkk.dev/two-dataframe-have-another-value)
-- [🫑 [LeetCode] 543. Diameter of Binary Tree](https://spearkkk.dev/leetcode-543-diameter-of-binary-tree)
 <!-- BLOGPOSTS:END -->
 
   
