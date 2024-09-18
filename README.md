@@ -1,6 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Changkwon+😎&height=150&width=1024&size=40&color=458588&background=282828&center=true&vCenter=true&multiline=false&duration=2000&pause=0)
 
 <div align=right>
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/spearkkk"/>
+  </a>
   <br/>
   <br/>  
   <br/>
