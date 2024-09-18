@@ -3,7 +3,7 @@
 <div align=right>
   <a href="https://github.com/devxb/gitanimals">
     <img
-      src="https://render.gitanimals.org/lines/spearkkk?pet-id=2"
+      src="https://render.gitanimals.org/lines/spearkkk?pet-id=624227435622945015"
       width="80"
       height="80"
     />
