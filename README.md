@@ -2,7 +2,11 @@
 
 <div align=right>
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/spearkkk"/>
+    <img
+      src="https://render.gitanimals.org/lines/spearkkk"
+      width="80"
+      height="80"
+    />
   </a>
   <br/>
   <br/>  
