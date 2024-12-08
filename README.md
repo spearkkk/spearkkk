@@ -49,6 +49,8 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
+- [🍐 Why Skewed Data Causes Problem](https://spearkkk.dev/why-skewed-data-causes-problem)
+- [🍐 Why Skewed Data Causes Problem](https://spearkkk.dev/why-skewed-data-causes-problem)
 - [🥖 Column-oriented(Columnar) 저장 방식](https://spearkkk.dev/column-oriented)
 - [🍓 MyRocks Engine](https://spearkkk.dev/my-rocks_engine)
 - [📝 2024년, 첫 번째 이직: 백엔드 엔지니어에서 데이터 엔지니어로](https://spearkkk.dev/2024-first-changing-company-from-backend-to-data-engineer)
@@ -57,8 +59,6 @@
 - [🫒 [백준] 2573. 빙산](https://spearkkk.dev/%EB%B0%B1%EC%A4%80-2573-%EB%B9%99%EC%82%B0)
 - [🌽 LSM Tree](https://spearkkk.dev/lsm-tree)
 - [🪖 군인](https://spearkkk.dev/soldier)
-- [📝 2023년 회고(7년차)](https://spearkkk.dev/7%EB%85%84%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
-- [🍞 같은 데이터프레임이 서로 다른 값을 가지는 현상](https://spearkkk.dev/two-dataframe-have-another-value)
 <!-- BLOGPOSTS:END -->
 
   
