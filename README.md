@@ -50,7 +50,6 @@
   
   <!-- BLOGPOSTS:START -->
 - [🍐 Why Skewed Data Causes Problem](https://spearkkk.dev/why-skewed-data-causes-problem)
-- [🍐 Why Skewed Data Causes Problem](https://spearkkk.dev/why-skewed-data-causes-problem)
 - [🥖 Column-oriented(Columnar) 저장 방식](https://spearkkk.dev/column-oriented)
 - [🍓 MyRocks Engine](https://spearkkk.dev/my-rocks_engine)
 - [📝 2024년, 첫 번째 이직: 백엔드 엔지니어에서 데이터 엔지니어로](https://spearkkk.dev/2024-first-changing-company-from-backend-to-data-engineer)
