@@ -58,6 +58,7 @@
 - [🫒 [백준] 2573. 빙산](https://spearkkk.dev/%EB%B0%B1%EC%A4%80-2573-%EB%B9%99%EC%82%B0)
 - [🌽 LSM Tree](https://spearkkk.dev/lsm-tree)
 - [🪖 군인](https://spearkkk.dev/soldier)
+- [📝 2023년 회고(7년차)](https://spearkkk.dev/7%EB%85%84%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
 <!-- BLOGPOSTS:END -->
 
   
