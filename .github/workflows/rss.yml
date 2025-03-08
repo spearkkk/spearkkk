@@ -12,7 +12,7 @@ jobs:
       - name: Load RSS
         uses: kohrongying/readme-the-rss@master
         with:
-          feed_url: https://spearkkk.dev/rss.xml
+          feed_url: https://spearkkk.dev/rss
           count: 10 # default 5
       - name: Commmit
         run: |

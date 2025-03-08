@@ -12,30 +12,12 @@
   <br/>  
   <br/>
   
-  **I am a software engineer who like to solve problem.**<br/>
-
-  I work for global messenger company in Republic of Korea.<br/> 
-  
-  I worked for E-commerce company in Republic of Korea.<br/>
-  <br/>
-
-  <a href="https://www.linkedin.com/in/spearkkk/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-305D61.svg?&style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=305D61&logoWidth=20"/>
-  </a>
-  <a href="http://spearkkk.dev/en/resume/" target="_blank">
-    <img src="https://img.shields.io/badge/resume-305D61.svg?&style=for-the-badge&logo=ReadtheDocs&logoColor=ffffff&labelColor=305D61&logoWidth=20"/>
-  </a>
-  <a href="https://spearkkk.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/blog-305D61.svg?&style=for-the-badge&logo=ReadtheDocs&logoColor=ffffff&labelColor=305D61&logoWidth=20"/>
-  </a>
-  
-  <br/>
-  <br/>
-  
   👨🏼‍💻 I'm working LinePlus in Republic of Korea.
+  
   <br/>
   
   🍿 I like to watch series & movies.
+  
   <br/>
 
 </div>
