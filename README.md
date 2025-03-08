@@ -31,16 +31,16 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
-- [🍐 Why Skewed Data Causes Problem](https://spearkkk.dev/why-skewed-data-causes-problem)
-- [🥖 Column-oriented(Columnar) 저장 방식](https://spearkkk.dev/column-oriented)
-- [🍓 MyRocks Engine](https://spearkkk.dev/my-rocks_engine)
-- [📝 2024년, 첫 번째 이직: 백엔드 엔지니어에서 데이터 엔지니어로](https://spearkkk.dev/2024-first-changing-company-from-backend-to-data-engineer)
-- [🧑🏼‍🍳 2024년 이탈리아](https://spearkkk.dev/2024-italy)
-- [🍄 데이터프레임의 리밋에 대한 작은 고려 사항](https://spearkkk.dev/dataframe-limit)
-- [🫒 [백준] 2573. 빙산](https://spearkkk.dev/%EB%B0%B1%EC%A4%80-2573-%EB%B9%99%EC%82%B0)
-- [🌽 LSM Tree](https://spearkkk.dev/lsm-tree)
-- [🪖 군인](https://spearkkk.dev/soldier)
-- [📝 2023년 회고(7년차)](https://spearkkk.dev/7%EB%85%84%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
+- ["Optimizing Spark Streaming App with Data Skew: Reducing File Count"](https://spearkkk.dev/kr/blog/optimizing-spark-streaming-app-with-data-skew-reducing-file-count)
+- [2024년 회고(8년차)](https://spearkkk.dev/kr/blog/8th-year-retrospect)
+- [Why Skewed Data Causes Problem](https://spearkkk.dev/kr/blog/why-skewed-data-causes-problem)
+- [Why Skewed Data Causes Problem](https://spearkkk.dev/en/blog/why-skewed-data-causes-problem)
+- [Column-oriented(Columnar) 저장 방식](https://spearkkk.dev/kr/blog/column-oriented)
+- [MyRocks Engine](https://spearkkk.dev/kr/blog/my-rocks_engine)
+- [2024년, 첫 번째 이직: 백엔드 엔지니어에서 데이터 엔지니어로](https://spearkkk.dev/kr/blog/2024-first-changing-company-from-backend-to-data-engineer)
+- [데이터프레임의 리밋에 대한 작은 고려 사항](https://spearkkk.dev/kr/blog/dataframe-limit)
+- [LSM Tree](https://spearkkk.dev/kr/blog/lsm-tree)
+- [2023년 회고(7년차)](https://spearkkk.dev/kr/blog/7th-year-retrospect)
 <!-- BLOGPOSTS:END -->
 
   
