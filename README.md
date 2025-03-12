@@ -31,16 +31,16 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
+- ["Apache Hadoop: HDFS"](https://spearkkk.dev/kr/blog/apache-hadoop-hdfs)
 - ["Optimizing Spark Streaming App with Data Skew: Reducing File Count"](https://spearkkk.dev/kr/blog/optimizing-spark-streaming-app-with-data-skew-reducing-file-count)
 - [2024년 회고(8년차)](https://spearkkk.dev/kr/blog/8th-year-retrospect)
-- [Why Skewed Data Causes Problem](https://spearkkk.dev/kr/blog/why-skewed-data-causes-problem)
-- [Why Skewed Data Causes Problem](https://spearkkk.dev/en/blog/why-skewed-data-causes-problem)
 - [Column-oriented(Columnar) 저장 방식](https://spearkkk.dev/kr/blog/column-oriented)
 - [MyRocks Engine](https://spearkkk.dev/kr/blog/my-rocks_engine)
 - [2024년, 첫 번째 이직: 백엔드 엔지니어에서 데이터 엔지니어로](https://spearkkk.dev/kr/blog/2024-first-changing-company-from-backend-to-data-engineer)
 - [데이터프레임의 리밋에 대한 작은 고려 사항](https://spearkkk.dev/kr/blog/dataframe-limit)
 - [LSM Tree](https://spearkkk.dev/kr/blog/lsm-tree)
 - [2023년 회고(7년차)](https://spearkkk.dev/kr/blog/7th-year-retrospect)
+- [같은 데이터프레임이 서로 다른 값을 가지는 현상](https://spearkkk.dev/kr/blog/two-dataframe-have-another-value)
 <!-- BLOGPOSTS:END -->
 
   
