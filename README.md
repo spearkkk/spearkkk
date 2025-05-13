@@ -31,6 +31,8 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
+- [Operation: 15% - 2025-05-12 로그](https://spearkkk.dev/kr/blog/operation-15-log-2025-05-12)
+- [Operation: 15% - 2025-05-11 로그](https://spearkkk.dev/kr/blog/operation-15-log-2025-05-11)
 - [Operation: 15% - 2025-05-10 로그](https://spearkkk.dev/kr/blog/operation-15-log-2025-05-10)
 - [Operation: 15% - 2025-05-09 로그](https://spearkkk.dev/kr/blog/operation-15-log-2025-05-09)
 - [Operation: 15% - 2025-05-08 로그](https://spearkkk.dev/kr/blog/operation-15-log-2025-05-08)
@@ -39,8 +41,6 @@
 - ["Apache Hadoop: HDFS"](https://spearkkk.dev/kr/blog/apache-hadoop-hdfs)
 - ["Optimizing Spark Streaming App with Data Skew: Reducing File Count"](https://spearkkk.dev/kr/blog/optimizing-spark-streaming-app-with-data-skew-reducing-file-count)
 - [2024년 회고(8년차)](https://spearkkk.dev/kr/blog/8th-year-retrospect)
-- [Column-oriented(Columnar) 저장 방식](https://spearkkk.dev/kr/blog/column-oriented)
-- [MyRocks Engine](https://spearkkk.dev/kr/blog/my-rocks_engine)
 <!-- BLOGPOSTS:END -->
 
   
