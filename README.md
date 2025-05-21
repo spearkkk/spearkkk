@@ -31,6 +31,7 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
+- [Operation: 15% - 2025-05-20 로그](https://spearkkk.dev/kr/blog/operation-15-log-2025-05-20)
 - [Operation: 15% - 2025-05-19 로그](https://spearkkk.dev/kr/blog/operation-15-log-2025-05-19)
 - [Operation: 15% - 2025-05-18 로그](https://spearkkk.dev/kr/blog/operation-15-log-2025-05-18)
 - [Operation: 15% - 2025-05-17 로그](https://spearkkk.dev/kr/blog/operation-15-log-2025-05-17)
@@ -40,7 +41,6 @@
 - [Operation: 15% - 2025-05-13 로그](https://spearkkk.dev/kr/blog/operation-15-log-2025-05-13)
 - [Operation: 15% - 2025-05-12 로그](https://spearkkk.dev/kr/blog/operation-15-log-2025-05-12)
 - [Operation: 15% - 2025-05-11 로그](https://spearkkk.dev/kr/blog/operation-15-log-2025-05-11)
-- [Operation: 15% - 2025-05-10 로그](https://spearkkk.dev/kr/blog/operation-15-log-2025-05-10)
 <!-- BLOGPOSTS:END -->
 
   
