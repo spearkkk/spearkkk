@@ -84,10 +84,10 @@ Sunday                   1563 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
