@@ -84,10 +84,10 @@ Sunday                   1564 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zoom                     38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
