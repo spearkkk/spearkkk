@@ -59,45 +59,6 @@
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                674 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-🌆 Daytime                1547 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-🌃 Evening                6165 commits        █████████████████░░░░░░░░   66.91 % 
-🌙 Night                  828 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   1434 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Tuesday                  1225 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Wednesday                1362 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Thursday                 1085 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Friday                   1025 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Saturday                 1519 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Sunday                   1564 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    14 hrs 46 mins      ██████████████░░░░░░░░░░░   55.55 % 
-Markdown                 6 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
-HOCON                    3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Shell                    47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-YAML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-
-🔥 Editors: 
-IntelliJ IDEA            10 hrs 25 mins      ██████████░░░░░░░░░░░░░░░   39.22 % 
-iTerm2                   8 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   31.19 % 
-Chrome                   5 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-Zoom                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Lens                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-```
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/spearkkk/spearkkk/main/assets/bar_graph.png)
