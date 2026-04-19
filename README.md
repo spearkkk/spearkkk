@@ -45,7 +45,7 @@
 
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -59,6 +59,45 @@
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                674 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+🌆 Daytime                1547 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+🌃 Evening                6165 commits        █████████████████░░░░░░░░   66.91 % 
+🌙 Night                  828 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   1434 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Tuesday                  1225 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Wednesday                1362 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Thursday                 1085 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Friday                   1025 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Saturday                 1519 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Sunday                   1564 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    14 hrs 26 mins      ███████████████░░░░░░░░░░   58.58 % 
+Markdown                 6 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   27.80 % 
+Shell                    1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Java                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+YAML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+
+🔥 Editors: 
+IntelliJ IDEA            11 hrs              ███████████░░░░░░░░░░░░░░   44.63 % 
+iTerm2                   9 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   37.73 % 
+Zoom                     2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+Chrome                   1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+Lens                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/spearkkk/spearkkk/main/assets/bar_graph.png)
