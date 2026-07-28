@@ -51,7 +51,7 @@
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 87 Contributions in the Year 2026
+> 🏆 88 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -64,18 +64,18 @@
 ```text
 🌞 Morning                686 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
 🌆 Daytime                1554 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-🌃 Evening                5801 commits        █████████████████░░░░░░░░   67.09 % 
+🌃 Evening                5802 commits        █████████████████░░░░░░░░   67.10 % 
 🌙 Night                  605 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1408 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Monday                   1409 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
 Tuesday                  1124 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
 Wednesday                1350 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
 Thursday                 1054 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
 Friday                   908 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-Saturday                 1294 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Saturday                 1294 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
 Sunday                   1508 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
 ```
 
@@ -84,18 +84,43 @@ Sunday                   1508 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 8 hrs 36 mins       ████████████░░░░░░░░░░░░░   47.38 % 
-Java                     2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Python                   2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Other                    1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-tmux                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Markdown                 7 hrs 26 mins       ████████████░░░░░░░░░░░░░   46.67 % 
+Java                     2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+fish                     1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+tmux                     1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Other                    1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 14 mins       █████████████░░░░░░░░░░░░   50.89 % 
-Codex CLI                7 hrs 46 mins       ███████████░░░░░░░░░░░░░░   42.79 % 
-IntelliJ IDEA            34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Telegram                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-Chrome                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Claude Code              10 hrs 26 mins      ████████████████░░░░░░░░░   65.54 % 
+Codex CLI                4 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   28.44 % 
+Telegram                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+IntelliJ IDEA            22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Chrome                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 15 hrs 23 mins (96.62%)
+
+✍️ 2,125 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 248,477,712 Input Tokens, 831,684 Output Tokens
+
+💵 $857.57 Estimated AI Cost This Week
+
+🧠 25 AI Sessions, 244 AI Prompts
+
+Sonnet                   1,560 lines         ██████████████████░░░░░░░   72.06 % 
+GPT                      605 lines           ███████░░░░░░░░░░░░░░░░░░   27.94 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,053 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **Timeline**
