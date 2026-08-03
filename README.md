@@ -86,42 +86,42 @@ Sunday                   1508 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   30.28 % 
-fish                     3 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
-tmux                     1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Java                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-YAML                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Markdown                 3 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   32.01 % 
+fish                     2 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+tmux                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Java                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+YAML                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 42 mins       ████████████░░░░░░░░░░░░░   47.40 % 
-Codex CLI                5 hrs 6 mins        ███████████░░░░░░░░░░░░░░   42.35 % 
-Zoom                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-IntelliJ IDEA            23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Chrome                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Codex CLI                5 hrs 6 mins        ███████████░░░░░░░░░░░░░░   44.78 % 
+Claude Code              5 hrs 3 mins        ███████████░░░░░░░░░░░░░░   44.38 % 
+Zoom                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+IntelliJ IDEA            23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Chrome                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 52 mins (98.66%)
+⏱ AI Coding Time: 11 hrs 13 mins (98.58%)
 
-✍️ 1,534 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,511 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 207,052,107 Input Tokens, 488,252 Output Tokens
+🔤 187,647,004 Input Tokens, 456,898 Output Tokens
 
-💵 $721.12 Estimated AI Cost This Week
+💵 $662.43 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 171 AI Prompts
+🧠 19 AI Sessions, 158 AI Prompts
 
-GPT                      822 lines           █████████████░░░░░░░░░░░░   51.06 % 
-Sonnet                   788 lines           ████████████░░░░░░░░░░░░░   48.94 % 
+GPT                      822 lines           █████████████░░░░░░░░░░░░   51.80 % 
+Sonnet                   765 lines           ████████████░░░░░░░░░░░░░   48.20 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 409 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📝 Concise Prompter — average 435 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
