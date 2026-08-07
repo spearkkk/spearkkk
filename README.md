@@ -31,6 +31,7 @@
   </div>
   
   <!-- BLOGPOSTS:START -->
+- [2025년 회고(9년차)](https://spearkkk.dev/kr/blog/9th-year-retrospect)
 - [조용한 작업에 대한 짧은 메모](https://spearkkk.dev/kr/blog/small-notes-on-quiet-work)
 - [Operation: 15% - 2025.06.10 로그](https://spearkkk.dev/kr/blog/operation-15-log-2025-06-10)
 - [Operation: 15% - 2025-05-21 로그](https://spearkkk.dev/kr/blog/operation-15-log-2025-05-21)
@@ -40,7 +41,6 @@
 - [Operation: 15% - 2025-05-17 로그](https://spearkkk.dev/kr/blog/operation-15-log-2025-05-17)
 - [Operation: 15% - 2025-05-16 로그](https://spearkkk.dev/kr/blog/operation-15-log-2025-05-16)
 - [Operation: 15% - 2025-05-15 로그](https://spearkkk.dev/kr/blog/operation-15-log-2025-05-15)
-- [Operation: 15% - 2025-05-14 로그](https://spearkkk.dev/kr/blog/operation-15-log-2025-05-14)
 <!-- BLOGPOSTS:END -->
 
   
