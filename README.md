@@ -53,7 +53,7 @@
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 99 Contributions in the Year 2026
+> 🏆 101 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -65,20 +65,20 @@
 
 ```text
 🌞 Morning                690 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-🌆 Daytime                1557 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-🌃 Evening                5806 commits        █████████████████░░░░░░░░   67.06 % 
+🌆 Daytime                1559 commits        ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+🌃 Evening                5806 commits        █████████████████░░░░░░░░   67.04 % 
 🌙 Night                  605 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1412 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Monday                   1414 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
 Tuesday                  1125 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Wednesday                1353 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Wednesday                1353 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
 Thursday                 1057 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
 Friday                   909 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-Saturday                 1294 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Sunday                   1508 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+Saturday                 1294 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Sunday                   1508 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
 ```
 
 
@@ -86,43 +86,42 @@ Sunday                   1508 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-Other                    2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-tmux                     2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Kotlin                   1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-Lua                      1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Other                    2 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   28.44 % 
+tmux                     1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+YAML                     1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+XML                      1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Lua                      38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
 
 🔥 Editors: 
-Codex CLI                8 hrs 52 mins       ██████████████░░░░░░░░░░░   56.68 % 
-Claude Code              4 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   30.01 % 
-Zoom                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-IntelliJ IDEA            23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-Sublime Text             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Codex CLI                3 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   39.72 % 
+Claude Code              3 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   37.74 % 
+Zoom                     1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+IntelliJ IDEA            23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 49 mins (94.66%)
+⏱ AI Coding Time: 7 hrs 37 mins (90.11%)
 
-✍️ 1,110 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 159 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 137,403,730 Input Tokens, 546,228 Output Tokens
+🔤 68,518,220 Input Tokens, 185,250 Output Tokens
 
-💵 $554.78 Estimated AI Cost This Week
+💵 $258.62 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 234 AI Prompts
+🧠 10 AI Sessions, 106 AI Prompts
 
-GPT                      968 lines           ███████████████████░░░░░░   76.22 % 
-Sonnet                   177 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Haiku                    125 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    125 lines           ███████████████████░░░░░░   75.30 % 
+GPT                      37 lines            ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
+Sonnet                   4 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 370 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
+📝 Concise Prompter — average 123 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
