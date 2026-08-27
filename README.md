@@ -45,7 +45,7 @@
 
   
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-311%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-311%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -86,42 +86,42 @@ Sunday                   1508 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     4 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   38.18 % 
-Markdown                 2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
-Java                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-Python                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Git Config               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+YAML                     4 hrs 31 mins       █████████████░░░░░░░░░░░░   52.76 % 
+Markdown                 2 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   30.54 % 
+Java                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Python                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Text                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 
 🔥 Editors: 
-Codex CLI                5 hrs 31 mins       ████████████░░░░░░░░░░░░░   49.46 % 
-Claude Code              5 hrs 11 mins       ████████████░░░░░░░░░░░░░   46.42 % 
-IntelliJ IDEA            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-Sublime Text             9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-Telegram                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Codex CLI                4 hrs 11 mins       ████████████░░░░░░░░░░░░░   49.01 % 
+Claude Code              3 hrs 54 mins       ███████████░░░░░░░░░░░░░░   45.62 % 
+IntelliJ IDEA            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Sublime Text             9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Telegram                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs (98.58%)
+⏱ AI Coding Time: 8 hrs 24 mins (98.15%)
 
-✍️ 2,181 lines written by AI, 316 lines written by hand (87.34% AI-written)
+✍️ 2,188 lines written by AI, 316 lines written by hand (87.38% AI-written)
 
-🔤 16,678,221 Input Tokens, 352,547 Output Tokens
+🔤 11,913,340 Input Tokens, 238,638 Output Tokens
 
-💵 $91.16 Estimated AI Cost This Week
+💵 $56.80 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 130 AI Prompts
+🧠 10 AI Sessions, 110 AI Prompts
 
-GPT                      1,816 lines         ████████████████████░░░░░   80.46 % 
-Sonnet                   441 lines           █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+GPT                      1,447 lines         ████████████████░░░░░░░░░   64.98 % 
+Sonnet                   780 lines           █████████░░░░░░░░░░░░░░░░   35.02 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.34% of written lines came from AI
-📝 Concise Prompter — average 279 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 12.28% of changed lines were hand-edited
+🤖 AI-Driven — 87.38% of written lines came from AI
+📝 Concise Prompter — average 271 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 12.43% of changed lines were hand-edited
 ```
 
 **Timeline**
