@@ -86,39 +86,39 @@ Sunday                   1508 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 8 hrs 51 mins       ████████████░░░░░░░░░░░░░   48.19 % 
-JavaScript               2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-YAML                     2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-fish                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Java                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Markdown                 8 hrs 51 mins       ████████████░░░░░░░░░░░░░   49.47 % 
+JavaScript               2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+YAML                     1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+fish                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Java                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 
 🔥 Editors: 
-Codex CLI                9 hrs 6 mins        ████████████░░░░░░░░░░░░░   49.59 % 
-Claude Code              7 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   40.50 % 
-IntelliJ IDEA            1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Telegram                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Codex CLI                8 hrs 37 mins       ████████████░░░░░░░░░░░░░   48.24 % 
+Claude Code              7 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   41.57 % 
+IntelliJ IDEA            1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Telegram                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 49 mins (97.09%)
+⏱ AI Coding Time: 17 hrs 21 mins (97.0%)
 
-✍️ 3,768 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,763 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 23,361,010 Input Tokens, 765,008 Output Tokens
+🔤 23,176,852 Input Tokens, 757,162 Output Tokens
 
-💵 $136.37 Estimated AI Cost This Week
+💵 $134.77 Estimated AI Cost This Week
 
-🧠 40 AI Sessions, 193 AI Prompts
+🧠 39 AI Sessions, 187 AI Prompts
 
-GPT                      2,788 lines         ███████████████░░░░░░░░░░   60.58 % 
-Sonnet                   1,814 lines         ██████████░░░░░░░░░░░░░░░   39.42 % 
+GPT                      2,775 lines         ███████████████░░░░░░░░░░   60.47 % 
+Sonnet                   1,814 lines         ██████████░░░░░░░░░░░░░░░   39.53 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 720 characters per prompt
+📄 Detailed Prompter — average 743 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
