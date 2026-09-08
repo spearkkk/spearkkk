@@ -86,16 +86,16 @@ Sunday                   1508 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 6 hrs 45 mins       ██████████████░░░░░░░░░░░   57.51 % 
-YAML                     2 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
+Markdown                 6 hrs 45 mins       ██████████████░░░░░░░░░░░   57.52 % 
+YAML                     2 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
 JSON                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
 TypeScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 🔥 Editors: 
-Codex CLI                10 hrs 1 min        █████████████████████░░░░   85.25 % 
+Codex CLI                10 hrs 1 min        █████████████████████░░░░   85.27 % 
 Sublime Text             42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-IntelliJ IDEA            38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+IntelliJ IDEA            38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
 Telegram                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 ```
@@ -103,7 +103,7 @@ Codex Vscode             2 mins              ░░░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 54 mins (92.79%)
+⏱ AI Coding Time: 10 hrs 54 mins (92.8%)
 
 ✍️ 3,245 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -111,7 +111,7 @@ Codex Vscode             2 mins              ░░░░░░░░░░░�
 
 💵 $92.73 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 174 AI Prompts
+🧠 23 AI Sessions, 173 AI Prompts
 
 GPT                      3,281 lines         █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -119,8 +119,8 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 444 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📝 Concise Prompter — average 447 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 2.61% of changed lines were hand-edited
 ```
 
