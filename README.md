@@ -47,7 +47,7 @@
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-351%20hrs%2023%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -86,36 +86,36 @@ Sunday                   1508 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 6 mins         █████████████░░░░░░░░░░░░   52.70 % 
-Other                    34 mins             ███████░░░░░░░░░░░░░░░░░░   27.15 % 
-Bash                     25 mins             █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+Other                    1 hr 17 mins        ███████████░░░░░░░░░░░░░░   43.57 % 
+Markdown                 1 hr 12 mins        ██████████░░░░░░░░░░░░░░░   40.74 % 
+Bash                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
 
 🔥 Editors: 
-Codex CLI                49 mins             ██████████░░░░░░░░░░░░░░░   39.12 % 
-Sublime Text             38 mins             ████████░░░░░░░░░░░░░░░░░   30.51 % 
-Telegram                 38 mins             ████████░░░░░░░░░░░░░░░░░   30.37 % 
+Telegram                 1 hr 22 mins        ████████████░░░░░░░░░░░░░   46.48 % 
+Codex CLI                56 mins             ████████░░░░░░░░░░░░░░░░░   31.71 % 
+Sublime Text             38 mins             █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 13 mins (57.59%)
+⏱ AI Coding Time: 2 hrs 3 mins (69.68%)
 
 ✍️ 377 lines written by AI, 14 lines written by hand (96.42% AI-written)
 
-🔤 252,049 Input Tokens, 48,366 Output Tokens
+🔤 477,366 Input Tokens, 54,357 Output Tokens
 
-💵 $3.56 Estimated AI Cost This Week
+💵 $4.23 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 18 AI Prompts
+🧠 5 AI Sessions, 32 AI Prompts
 
 GPT                      377 lines           █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 96.42% of written lines came from AI
-📝 Concise Prompter — average 438 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📚 Verbose Prompter — average 6,638 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 6.22% of changed lines were hand-edited
 ```
 
