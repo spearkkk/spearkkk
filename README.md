@@ -86,36 +86,36 @@ Sunday                   1508 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 17 mins        ███████████░░░░░░░░░░░░░░   43.57 % 
-Markdown                 1 hr 12 mins        ██████████░░░░░░░░░░░░░░░   40.74 % 
-Bash                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Markdown                 1 hr 6 mins         █████████████░░░░░░░░░░░░   52.70 % 
+Other                    34 mins             ███████░░░░░░░░░░░░░░░░░░   27.15 % 
+Bash                     25 mins             █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
 
 🔥 Editors: 
-Telegram                 1 hr 22 mins        ████████████░░░░░░░░░░░░░   46.48 % 
-Codex CLI                56 mins             ████████░░░░░░░░░░░░░░░░░   31.71 % 
-Sublime Text             38 mins             █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
+Codex CLI                49 mins             ██████████░░░░░░░░░░░░░░░   39.12 % 
+Sublime Text             38 mins             ████████░░░░░░░░░░░░░░░░░   30.51 % 
+Telegram                 38 mins             ████████░░░░░░░░░░░░░░░░░   30.37 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 3 mins (69.68%)
+⏱ AI Coding Time: 1 hr 13 mins (57.59%)
 
 ✍️ 377 lines written by AI, 14 lines written by hand (96.42% AI-written)
 
-🔤 477,366 Input Tokens, 54,357 Output Tokens
+🔤 252,049 Input Tokens, 48,366 Output Tokens
 
-💵 $4.23 Estimated AI Cost This Week
+💵 $3.56 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 32 AI Prompts
+🧠 2 AI Sessions, 18 AI Prompts
 
 GPT                      377 lines           █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 96.42% of written lines came from AI
-📚 Verbose Prompter — average 6,638 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📝 Concise Prompter — average 438 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 6.22% of changed lines were hand-edited
 ```
 
