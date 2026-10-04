@@ -86,34 +86,16 @@ Sunday                   1508 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 33 mins             ████████████████████████░   96.42 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Sublime Text             29 mins             █████████████████████░░░░   85.05 % 
-Codex CLI                5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (21.18%)
-
-✍️ 92 lines written by AI, 14 lines written by hand (86.79% AI-written)
-
-🔤 13,642 Input Tokens, 4,625 Output Tokens
-
-💵 $0.27 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 4 AI Prompts
-
-GPT                      92 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 86.79% of written lines came from AI
-📝 Concise Prompter — average 122 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 21.37% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **Timeline**
