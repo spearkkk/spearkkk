@@ -86,38 +86,16 @@ Sunday                   1508 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 1 min          ██████████░░░░░░░░░░░░░░░   40.88 % 
-Other                    48 mins             ████████░░░░░░░░░░░░░░░░░   32.69 % 
-XML                      32 mins             █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-Java                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex CLI                1 hr 41 mins        █████████████████░░░░░░░░   67.50 % 
-Zoom                     47 mins             ████████░░░░░░░░░░░░░░░░░   31.65 % 
-Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 50 mins (73.96%)
-
-✍️ 156 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 1,253,890 Input Tokens, 72,149 Output Tokens
-
-💵 $13.46 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 44 AI Prompts
-
-GPT                      206 lines           █████████████████████████   100.00 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 14,094 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **Timeline**
